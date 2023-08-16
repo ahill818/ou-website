@@ -82,7 +82,7 @@ sections:
         - title: Research Scientist (I/II)
           company: Colorado State University
           company_url: ''
-          company_logo: org-gc
+          company_logo: CSU_Logo
           location: Fort Collins, CO
           date_start: '2021-07-01'
           date_end: '2023-08-11'
@@ -93,7 +93,7 @@ sections:
         - title: Postdoctoral Research Fellow
           company: Colorado State University
           company_url: ''
-          company_logo: org-x
+          company_logo: CSU_Logo
           location: Fort Collins, CO
           date_start: '2019-07-01'
           date_end: '2021-06-30'
