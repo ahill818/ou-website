@@ -65,6 +65,12 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+title: "Forecasting excessive rainfall with random forests and a deterministic convection-allowing model"
+authors:
+- admin
+- Russ S. Schumacher
+---
+
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
