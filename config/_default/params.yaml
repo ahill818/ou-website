@@ -73,7 +73,7 @@ features:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
     branch: main
-  avatar:
+  profile:
     gravatar: false
     shape: circle
   comment:
