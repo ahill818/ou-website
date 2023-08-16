@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions"
 authors:
 - admin
 - Russ S. Schumacher
@@ -34,7 +34,7 @@ featured: True
 
 # links:
 # - name: ""
-url: "https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml"
+url: ''
 #url_pdf: https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
