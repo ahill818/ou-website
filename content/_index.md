@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-08-16
 type: landing
 
 sections:
@@ -41,22 +41,22 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+#  - block: features
+#    content:
+#      title: Skills
+#      items:
+#        - name: R
+#          description: 90%
+#          icon: r-project
+#          icon_pack: fab
+#        - name: Statistics
+#          description: 100%
+#          icon: chart-line
+#          icon_pack: fas
+#        - name: Photography
+#          description: 10%
+#          icon: camera-retro
+#          icon_pack: fas
   - block: experience
     content:
       title: Experience
@@ -69,27 +69,34 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Assistant Professor
+          company: University of Oklahoma
+          location: Norman, Oklahoma
+          date_start: '2023-08-16'
+          date_end: ''
+          description: |2-
+              Classes taught:
+
+              * Introduction to Programming (1313)
+        - title: Research Scientist (I/II)
+          company: Colorado State University
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Fort Collins, CO
+          date_start: '2021-07-01'
+          date_end: '2023-08-11'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Postdoctoral Research Fellow
+          company: Colorado State University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Fort Collins, CO
+          date_start: '2019-07-01'
+          date_end: '2021-06-30'
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
