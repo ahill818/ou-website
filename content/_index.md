@@ -71,6 +71,7 @@ sections:
       items:
         - title: Assistant Professor
           company: University of Oklahoma
+          company_logo: org-ou
           location: Norman, Oklahoma
           date_start: '2023-08-16'
           date_end: ''
