@@ -64,7 +64,7 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-
+---
 title: "Forecasting excessive rainfall with random forests and a deterministic convection-allowing model"
 authors:
 - admin
