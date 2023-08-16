@@ -30,7 +30,7 @@ publication_short: "WAF"
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
