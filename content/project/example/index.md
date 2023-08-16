@@ -1,8 +1,8 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Machine Learning Prediction
+summary: Coming Soon!
 tags:
-  - Deep Learning
+  - Machine Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/draaronhill
 url_code: ''
 url_pdf: ''
 url_slides: ''
