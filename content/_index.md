@@ -213,6 +213,7 @@ sections:
 #      columns: '2'
 #      view: card
   - block: collection
+    id: rec_pubs
     content:
       title: Recent Publications
       text: |-
