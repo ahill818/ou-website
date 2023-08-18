@@ -78,7 +78,7 @@ sections:
           description: |2-
               Classes taught:
 
-              * Introduction to Programming (1313)
+              * Introduction to Programming (1313) (Spring 2024)
         - title: Research Scientist (I/II)
           company: Colorado State University
           company_url: ''
@@ -86,10 +86,10 @@ sections:
           location: Fort Collins, CO
           date_start: '2021-07-01'
           date_end: '2023-08-11'
-          description: |2-
-              Responsibilities include:
+<!--           description: |2-
+              Responsibilities included:
 
-              * Deploying
+              * Deploying -->
         - title: Postdoctoral Research Fellow
           company: Colorado State University
           company_url: ''
@@ -98,6 +98,40 @@ sections:
           date_start: '2019-07-01'
           date_end: '2021-06-30'
           description: ''
+        - title: Graduate Research Assistant
+          company: Texas Tech University
+          company_url: ''
+          company_logo: TTU_Logo
+          location: Lubbock, TX
+          date_start: '2012-09-01'
+          date_end: '2019-08-15'
+        - title: Instructor
+          company: Texas Tech University
+          company_url: ''
+          company_logo: TTU_Logo
+          location: Lubbock, TX
+          date_start: '2019-07-01'
+          date_end: '2021-06-30'
+          description: |2-
+              Classes taught:
+
+              * ATMO 1300: Introduction to Atmospheric Science
+        - title: Graduate Student Visitor
+          company: National Center for Atmospheric Research
+          company_url: ''
+          company_logo: NCAR_Logo
+          location: Boulder, CO
+          date_start: '2018-06-01'
+          date_end: '2018-08-31'
+          description: ''
+        - title: Graduate Writing Tutor
+          company: Texas Tech University
+          company_url: ''
+          company_logo: TTU_Logo
+          location: Lubbock, TX
+          date_start: '2016-07-01'
+          date_end: '2018-06-01'
+          description: ''            
     design:
       columns: '2'
 #  - block: accomplishments
