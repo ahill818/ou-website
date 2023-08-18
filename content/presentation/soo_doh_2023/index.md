@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning for Operational Weather Forecasting"
 authors:
-- admin
+- (invited) Hill, A. J.
 - R. S. Schumacher
 #author_notes:
 #- "Equal contribution"
