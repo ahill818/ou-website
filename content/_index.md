@@ -216,9 +216,9 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-#        - name: All
-#          tag: '*'
-        - name: Machine Learning for Wx Prediction
+        - name: All
+          tag: '*'
+        - name: Machine Learning for Forecasting
           tag: ML_fcst
         - name: Predictability
           tag: predictability

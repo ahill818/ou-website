@@ -1,6 +1,6 @@
 ---
 title: Machine Learning for Forecasting
-summary: Coming Soon!
+summary: Machine learning tools are being used to generate valuable products that aid operational forecasting
 tags:
   - ML_fcst
 date: '2023-08-18T00:00:00Z'

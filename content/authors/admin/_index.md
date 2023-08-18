@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Aaron Hill
+title: Aaron Hill
 
 # Full name (for SEO)
 first_name: Aaron
