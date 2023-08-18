@@ -218,15 +218,15 @@ sections:
 #        - name: All
 #          tag: '*'
         - name: Machine Learning for Wx Prediction
-          tag: ML Severe
+          tag: ML_fcst
         - name: Predictability
-          tag: ML Precip
+          tag: predictability
         - name: Targeted Observing
-          tag: Targeting
+          tag: targeting
         - name: Data Assimilation
-          tag: DA
+          tag: da
         - name: Severe Storm Dynamics
-          tag: Dynamics
+          tag: dynamics
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
