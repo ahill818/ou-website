@@ -24,6 +24,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include predictability and prediction of high-impact weather hazards
 
+announcement: The Hill Research Group will be looking to add at least two new Masters students beginning Fall 2024! Research projects will vary but may including developing machine learning-based forecast systems for high-impact weather hazards and/or exploring the predictability of severe convective storms in a warming climate. Please contact Dr. Hill (ahill@ou.edu) if you are interested in joining the group!
+
 # Interests to show in About widget
 interests:
   - Numerical Weather Prediction and Weather Forecasting
