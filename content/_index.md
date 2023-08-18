@@ -86,10 +86,10 @@ sections:
           location: Fort Collins, CO
           date_start: '2021-07-01'
           date_end: '2023-08-11'
-<!--           description: |2-
-              Responsibilities included:
-
-              * Deploying -->
+#           description: |2-
+#              Responsibilities included:
+#
+#              * Deploying
         - title: Postdoctoral Research Fellow
           company: Colorado State University
           company_url: ''
