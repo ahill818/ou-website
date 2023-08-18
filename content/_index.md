@@ -201,12 +201,12 @@ sections:
 #      view: compact
 #      columns: '2'
   - block: portfolio
-    id: projects
+    id: research
     content:
-      title: Projects
+      title: Research Areas
       filters:
         folders:
-          - project
+          - research
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -217,10 +217,17 @@ sections:
       buttons:
 #        - name: All
 #          tag: '*'
-        - name: Severe Wx Prediction
+        - name: Machine Learning for Wx Prediction
           tag: ML Severe
-        - name: Precipitation Prediction
+        - name: Predictability
           tag: ML Precip
+        - name: Targeted Observing
+          tag: Targeting
+        - name: Data Assimilation
+          tag: DA
+        - name: Severe Storm Dynamics
+          tag: Dynamics
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
