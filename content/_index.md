@@ -219,7 +219,7 @@ sections:
         - name: All
           tag: '*'
         - name: Machine Learning for Forecasting
-          tag: ML_fcst
+          tag: Machine Learning
         - name: Predictability
           tag: predictability
         - name: Targeted Observing
