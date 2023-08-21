@@ -1,6 +1,6 @@
 ---
 title: Convection Predictability
-summary: 
+summary: Improved forecasts of convection through understanding how forecasts are sensitive to small-scale changes in the environment
 tags:
   - Predictability
 date: '2023-08-18T00:00:00Z'

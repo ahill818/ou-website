@@ -1,6 +1,6 @@
 ---
 title: Data Assimilation
-summary: 
+summary: The application of convective-scale data assimilation to improve hazard forecasts
 tags:
   - DA
 date: '2023-08-18T00:00:00Z'

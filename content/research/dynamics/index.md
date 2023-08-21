@@ -1,6 +1,6 @@
 ---
 title: Severe Storm Dynamics
-summary: 
+summary: Improving the real-time detection of tornados through understanding of environmental precursors
 tags:
   - Dynamics
 date: '2023-08-18T00:00:00Z'
