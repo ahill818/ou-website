@@ -1,7 +1,7 @@
 ---
 title: "Factors influencing ensemble sensitivity-based targeted observing prediction at convection-allowing resolutions"
 authors:
-- Aaron J. Hill
+- admin
 - C. C. Weiss
 - B. C. Ancell
 #author_notes:

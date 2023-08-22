@@ -1,7 +1,7 @@
 ---
 title: "Predictions of Severe Weather with Random Forests and the Global Ensemble Forecast System"
 authors:
-- A. J. Hill
+- admin
 - R. S. Schumacher
 #author_notes:
 #- "Equal contribution"

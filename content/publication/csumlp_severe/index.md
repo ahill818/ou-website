@@ -1,7 +1,7 @@
 ---
 title: Forecasting severe weather with random forests
 authors:
-- Aaron J. Hill
+- admin
 - G. R. Herman
 - R. S. Schumacher
 #author_notes:

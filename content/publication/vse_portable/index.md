@@ -1,7 +1,7 @@
 ---
 title: "Influence of a portable near-surface observing network on experimental ensemble forecasts of deep convection hazards during VORTEX-SE"
 authors:
-- Aaron J. Hill
+- admin
 - C. C. Weiss
 - D. C. Dowell
 #author_notes:
