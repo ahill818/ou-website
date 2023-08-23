@@ -273,6 +273,11 @@ sections:
     id: presentations
     content:
       title: Recent & Upcoming Presentations
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering presentations](./presentation/).
+        {{% /callout %}}
+        
       filters:
         folders:
           - presentation
