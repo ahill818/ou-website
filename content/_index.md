@@ -218,7 +218,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Machine Learning for Forecasting
+        - name: Machine Learning
           tag: Machine Learning
         - name: Predictability
           tag: predictability
@@ -226,7 +226,7 @@ sections:
           tag: targeting
         - name: Data Assimilation
           tag: da
-        - name: Severe Storm Dynamics
+        - name: Dynamics
           tag: dynamics
 
     design:
