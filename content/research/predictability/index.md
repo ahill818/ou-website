@@ -1,6 +1,6 @@
 ---
 title: Convection Predictability
-summary: Improved forecasts of convection through understanding how forecasts are sensitive to small-scale changes in the environment
+summary: Improving forecasts of convection through understanding how forecasts are sensitive to small-scale changes in the environment
 tags:
   - Predictability
 date: '2023-08-18T00:00:00Z'
@@ -29,5 +29,8 @@ date: '2023-08-18T00:00:00Z'
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+ 
 
-Predictability of convective processes is easily discerned through the application of Ensemble Sensitivity Analysis (ESA), which relates changes in model initial conditions to changes in a forecast metric through univariate regressions. ESA is capable of diagnosing dynamic regions and features that are critical to successful forecasts of convection initiation and intensity (e.g., Hill et al. 2016). I continue to employ ESA to examine dynamic sensitivies of convection forecasts with convection-allowing models (e.g., Hill et al. 2016, Hill et al. 2021) and am interested in exploring how sensitivities vary across convection regimes and climates.
+Ensemble predictions of high-impact weather provide a wealth of data to mine, and those datasets are a data scientist’s dream. Ensemble predictions are often produced by perturbing an initial atmospheric state and carrying out integration from each perturbed state to generate an “ensemble” of forecasts. This approach offers an opportunity to quantify forecast variability and predictability by assessing how forecasts of hazards vary between the individual ensemble member forecasts. One tool that can be used to investigate forecast predictability is ensemble-sensitivity analysis (ESA), a linear regression technique that relates how the initial perturbations are reflected in the distribution of forecasted hazards1. ESA is capable of diagnosing dynamic regions and features that are critical to successful forecasts of convection initiation and intensity (e.g., Hill et al. 2016). I continue to employ ESA to examine dynamic sensitivies of convection forecasts with convection-allowing models (e.g., Hill et al. 2016, Hill et al. 2021) and am interested in exploring how sensitivities vary across convection regimes and climates to help elucidate how storms may gain or lose predictability in warming climates.
+
+

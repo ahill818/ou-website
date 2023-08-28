@@ -49,7 +49,7 @@ sections:
           description: |2-
               Classes taught:
 
-              * Introduction to Programming (1313) (Spring 2024)
+              * METR 1313: Introduction to Programming for Meteorology (Spring 2024)
         - title: Research Scientist (I/II)
           company: Colorado State University
           company_url: ''
