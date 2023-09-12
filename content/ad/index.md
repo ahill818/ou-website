@@ -13,6 +13,7 @@ header:
   caption: ""
   image: ""
 
+---
 <h1>Two Open Graduate Research Assistantships (Masters or Ph.D.) at OU School of Meteorology</h1>
 
 <p>The research group led by Dr. Aaron Hill in the School of Meteorology at OU is seeking at least two Master’s or Ph.D. students beginning Fall 2024. Research topics will be flexible depending on student interests, but could focus on artificial intelligence and machine learning applications for weather prediction, convection predictability in changing climates, or processes leading to tornadogenesis in QLCS storms. For more information on Dr. Hill’s research group, please visit his website
@@ -30,6 +31,3 @@ Location: Norman, Oklahoma. The School of Meteorology resides in the National We
 The University of Oklahoma, in compliance with all applicable federal and state laws and regulations, does not discriminate on the basis of race, color, national origin, sex, sexual orientation, genetic information, gender identity, gender expression, age, religion, disability, political beliefs, or status as a veteran in any of its policies, practices, or procedures. 
 
 If you have any questions about the position, please contact Dr. Hill (ahill@ou.edu)!</p>
-
-
----
