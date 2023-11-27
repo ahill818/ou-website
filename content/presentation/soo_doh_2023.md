@@ -38,10 +38,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
----
 
----
-title: "Machine Learning for Operational Weather Forecasting"
+title: "Machine Learning for Operational Weather Forecasting 2"
 authors:
 - admin
 - R. S. Schumacher
