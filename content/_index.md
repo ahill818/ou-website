@@ -242,7 +242,7 @@ sections:
   - block: collection
     id: presentations
     content:
-      title: Recent & Upcoming Presentations
+      title: Recent Presentations
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering presentations](./presentation/).
@@ -250,7 +250,7 @@ sections:
         
       filters:
         folders:
-          - presentation
+          - presentations
     design:
       columns: '2'
       view: citation
