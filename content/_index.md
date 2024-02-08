@@ -245,7 +245,7 @@ sections:
       title: Recent Presentations
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering presentations](./presentation/).
+        Quickly discover relevant content by [filtering presentations](./presentations/).
         {{% /callout %}}
         
       filters:
