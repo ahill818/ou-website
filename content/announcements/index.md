@@ -14,6 +14,4 @@ header:
   image: ""
 
 ---
-<h1>Group Announcements</h1>
-
 <p>Coming Soon!</p>
