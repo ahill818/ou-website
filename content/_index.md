@@ -5,6 +5,10 @@ date: 2023-08-16
 type: landing
 
 sections:
+  - block: markdown
+    content: 
+      title: Group Announcements
+      text: Group announcements coming soon! Full list of announcements here:  
   - block: about.biography
     id: about
     content:
