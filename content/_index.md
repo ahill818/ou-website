@@ -10,7 +10,7 @@ sections:
     content: 
       title: Group Announcements
       subtitle: 
-      text: Group announcements coming soon! Full list of announcements here:  
+      text: Group announcements coming soon! Full list of announcements here 
   - block: about.biography
     id: about
     content:
