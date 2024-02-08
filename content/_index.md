@@ -6,8 +6,10 @@ type: landing
 
 sections:
   - block: markdown
+    id: announcement
     content: 
       title: Group Announcements
+      subtitle: 
       text: Group announcements coming soon! Full list of announcements here:  
   - block: about.biography
     id: about
