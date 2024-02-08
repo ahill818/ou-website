@@ -5,18 +5,18 @@ date: 2023-08-16
 type: landing
 
 sections:
-  - block: markdown
-    id: announcement
-    content: 
-      title: Group Announcements
-      subtitle: 
-      text: Group announcements coming soon! Full list of announcements here 
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: markdown
+    id: announcement
+    content:
+      title: Group Announcements
+      subtitle:
+      text: Group announcements coming soon! Full list of announcements <a href="./announcements/">here</a>
 #  - block: features
 #    content:
 #      title: Skills
