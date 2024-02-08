@@ -17,11 +17,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
-    id: announcement
-    content:
-      title: Group Announcements
-      text: Group announcements coming soon! Full list of announcements here:
 #  - block: features
 #    content:
 #      title: Skills
