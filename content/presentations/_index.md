@@ -16,7 +16,7 @@ header:
 ---
 
 <h3>2024</h3>
-<b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. EGU General Assembly 2024, Vienna, Austria. 
+<b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. EGU General Assembly 2024, Vienna, Austria. <br />
 
 Gagne II, D. J., and Coauthors, 2024: <u>Lessons Learned from Building Real-Time Machine Learning Testbeds for AI2ES</u>. 14th Conference on Transition of Research to Operations, Baltimore, MD. 
 
@@ -27,7 +27,7 @@ Mazurek, A. C., R. S. Schumacher, and <b>A. J. Hill</b>, 2024: <u>When Do Machin
 Mazurek, A. C., <b>A. J. Hill</b>, R. S. Schumacher, and H. J. McDaniel, 2024: <u>Ingredients-Based Explainability: Using Tree Interpreter to Disaggregate a Random Forest's Severe Weather Predictions</u>. 23rd Conference on Artificial Intelligence for Environmental Science, Baltimore, MD.
 
 <h3>2023</h3>
-Clark, A. J., K. A. Hoogewind, <b>A. J. Hill</b>, B. T. Gallo, A. Berrington, and E. D. Loken, 2023: <u>Extended Range Machine-Learning Severe Weather Guidance Based on the Operational GEFS</u>. 28th Conference on Numerical Weather Prediction, Madison, WI. 
+Clark, A. J., K. A. Hoogewind, <b>A. J. Hill</b>, B. T. Gallo, A. Berrington, and E. D. Loken, 2023: <u>Extended Range Machine-Learning Severe Weather Guidance Based on the Operational GEFS</u>. 28th Conference on Numerical Weather Prediction, Madison, WI. <br />
 
 <b>Hill, A. J.</b> and R. S. Schumacher, 2023: <u>How long of an observational record is needed for skillful ML-based forecasts of excessive rainfall?</u> 32nd Conference on Weather Analysis and Forecasting, Madison, WI. 
 
