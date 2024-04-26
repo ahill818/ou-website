@@ -16,7 +16,7 @@ sections:
     content:
       title: Group Announcements
       subtitle:
-      text: Group announcements coming soon! Full list of announcements <a href="./announcements/">here</a>
+      text: Full list of announcements <a href="./announcements/">here</a> <br /> 4/26/2024 - Excited to announce three new members to the Hill Group at OU! Kelly Geiger (SUNY Albany), Hanna McDaniel (Florida State University), and Christian McGinty (University of Colorado - Boulder) will all be joining in the Fall as M.S. students! 
 #  - block: features
 #    content:
 #      title: Skills
