@@ -14,4 +14,10 @@ header:
   image: ""
 
 ---
-<p>Coming Soon!</p>
+<b>04/26/2024</b>
+
+Excited to announce three new members to the Hill Group at OU! Kelly Geiger (SUNY Albany), Hanna McDaniel (Florida State University), and Christian McGinty (University of Colorado - Boulder) will all be joining in the Fall as M.S. students! 
+
+Dr. Hill recently presented research on medium range rainfall forecasting with AI at the European Geophyics Union General Assembly in Vienna, Austria. 
+
+
