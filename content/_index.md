@@ -236,7 +236,17 @@ sections:
     id: rec_pubs
     content:
       title: Recent Publications
-      text: 
+      text: |-
+      <b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. EGU General Assembly 2024, Vienna, Austria. 
+      
+      Gagne II, D. J., and Coauthors, 2024: <u>Lessons Learned from Building Real-Time Machine Learning Testbeds for AI2ES</u>. 14th Conference on Transition of Research to Operations, Baltimore, MD. 
+      
+      Green, M. R. L., <b>A. J. Hill</b>, and R. S. Schumacher, 2024: <u>Understanding Training Data Components for Excessive Rainfall Machine-Learning Models: A look inside the Unified Flooding Verification System</u>. 23rd Annual AMS Student Conference, Baltimore, MD. 
+
+      Mazurek, A. C., R. S. Schumacher, and <b>A. J. Hill</b>, 2024: <u>When Do Machine Learning Forecasts Succeed and Fail? Evaluating Synoptic Regimes Associated With a Random Forest's Good and Bad Severe Weather Predictions</u>. 14th Conference on Transition of Research to Operations, Baltimore, MD. 
+
+      Mazurek, A. C., <b>A. J. Hill</b>, R. S. Schumacher, and H. J. McDaniel, 2024: <u>Ingredients-Based Explainability: Using Tree Interpreter to Disaggregate a Random Forest's Severe Weather Predictions</u>. 23rd Conference on Artificial Intelligence for Environmental Science, Baltimore, MD.
+
       filters:
         folders:
           - publication
