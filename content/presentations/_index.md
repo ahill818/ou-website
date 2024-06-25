@@ -16,7 +16,7 @@ header:
 ---
 
 <h3>2024</h3>
-<b>Hill, A. J.</b> and R. S. Schumacher, 2024: <a href="../../static/presentation_files/EGU_General_Assembly_2024.pptx"><u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u></a>. EGU General Assembly 2024, Vienna, Austria. <br />
+<b>Hill, A. J.</b> and R. S. Schumacher, 2024: <a href="presentation_files/EGU_General_Assembly_2024.pptx"><u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u></a>. EGU General Assembly 2024, Vienna, Austria. <br />
 
 Gagne II, D. J., and Coauthors, 2024: <u>Lessons Learned from Building Real-Time Machine Learning Testbeds for AI2ES</u>. 14th Conference on Transition of Research to Operations, Baltimore, MD. 
 
