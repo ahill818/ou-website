@@ -11,7 +11,7 @@ status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position/tagline
 role: Graduate Student Researcher
@@ -22,11 +22,25 @@ organizations:
     url: http://meteorology.ou.edu/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ahill@ou.edu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
   - Graduate Students
+
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:test@example.org'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com
+  - icon: github
+    icon_pack: fab
+    link: https://github.com
 ---
