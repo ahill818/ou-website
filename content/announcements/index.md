@@ -15,6 +15,7 @@ header:
 
 ---
 <b>07/08/2024</b>
+
 Welcome Evan Sudler to the research group! Evan is pursuing his B.S. degree in Meteorology in the School of Meteorology at OU. Evan will be working on evaluating the skill of global AI-based weather forecast models for high-impact weather. 
 
 
