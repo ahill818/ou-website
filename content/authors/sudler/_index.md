@@ -28,7 +28,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-  - Undergraduate Student Researchers
+  - Undergraduate Students
 
 social:
   - icon: envelope
