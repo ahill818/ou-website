@@ -44,3 +44,5 @@ social:
     icon_pack: fab
     link: https://github.com
 ---
+
+Hanna joined the group in Fall 2024. 

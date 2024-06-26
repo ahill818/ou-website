@@ -78,6 +78,9 @@ email: 'ahill@ou.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+user_groups:
+  - Principal Investigator
 ---
 
 <!--<b>ANNOUNCEMENT: Dr. Aaron Hill will be looking to add at least two new graduate students beginning Fall 2024! Research projects will vary but may include developing machine learning-based forecast systems for high-impact weather hazards and/or exploring the predictability of severe convective storms in a warming climate. Please contact Dr. Hill (ahill@ou.edu) if you are interested in joining the group and the School of Meteorology at OU! Full announcement <a href="./ad">here</a></b>-->
