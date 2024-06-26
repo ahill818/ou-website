@@ -16,7 +16,10 @@ sections:
     content:
       title: Group Announcements
       subtitle:
-      text: Full list of announcements <a href="./announcements/">here</a> <br /><br /> <b>4/26/2024</b><br />Excited to announce three new members to the Hill Group at OU! Kelly Geiger (SUNY Albany), Hanna McDaniel (Florida State University), and Christian McGinty (University of Colorado - Boulder) will all be joining in the Fall as M.S. students! <br /><br />Dr. Hill recently presented research at the European Geophyics Union General Assembly in Vienna, Austria 
+      text: Full list of announcements <a href="./announcements/">here</a> 
+      <br /><br /><b>07/08/2024</b>Welcome Evan Sudler to the research group! Evan is pursuing his B.S. degree in Meteorology in the School of Meteorology at OU. Evan will be working on evaluating the skill of global AI-based weather forecast models for high-impact weather. 
+      <br /><br /> <b>4/26/2024</b><br />Excited to announce three new members to the Hill Group at OU! Kelly Geiger (SUNY Albany), Hanna McDaniel (Florida State University), and Christian McGinty (University of Colorado - Boulder) will all be joining in the Fall as M.S. students! 
+      <br /><br />Dr. Hill recently presented research at the European Geophyics Union General Assembly in Vienna, Austria 
 
 
 #  - block: features
