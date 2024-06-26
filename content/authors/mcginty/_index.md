@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Graduate Student Researcher
+role: Graduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -34,15 +34,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com
-  - icon: github
-    icon_pack: fab
-    link: https://github.com
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com
 ---
 
 Christian joined the group in Fall 2024. 
