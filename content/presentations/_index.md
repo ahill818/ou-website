@@ -19,6 +19,9 @@ header:
 
 <b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. EGU General Assembly 2024, Vienna, Austria. <br />
 
+<b>[INVITED] Hill, A. J.</b>, 2024: <u>Our New Forecasting Paradigm: Artificial Intelligence.</u> 2024 Severe Storms and Doppler
+Radar Conference, Central Iowa NWA Chapter, March 2024. 
+
 Gagne II, D. J., and Coauthors, 2024: <u>Lessons Learned from Building Real-Time Machine Learning Testbeds for AI2ES</u>. 14th Conference on Transition of Research to Operations, Baltimore, MD. 
 
 Green, M. R. L., <b>A. J. Hill</b>, and R. S. Schumacher, 2024: <u>Understanding Training Data Components for Excessive Rainfall Machine-Learning Models: A look inside the Unified Flooding Verification System</u>. 23rd Annual AMS Student Conference, Baltimore, MD. 
@@ -29,7 +32,18 @@ Mazurek, A. C., <b>A. J. Hill</b>, R. S. Schumacher, and H. J. McDaniel, 2024: <
 
 <h3>2023</h3>
 
-Clark, A. J., K. A. Hoogewind, <b>A. J. Hill</b>, B. T. Gallo, A. Berrington, and E. D. Loken, 2023: <u>Extended Range Machine-Learning Severe Weather Guidance Based on the Operational GEFS</u>. 28th Conference on Numerical Weather Prediction, Madison, WI. <br />
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>Understanding and Improving Predictability of High-Impact Weather Hazards Through the
+Lens of Machine Learning</u>. American Geophysical Union Fall Meeting, virtual,
+December 2023. <br />
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>AI and Machine Learning in NWP: A look at Excessive Rainfall with the CSU-MLP</u>. Winter Weather Workshop, NWS OKX WFO, virtual, November 15th 2023.
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>Machine Learning for Operational Weather Forecasting</u>. National Weather Service Eastern
+  Region Science Sharing Webinar, virtual, October 2023. 
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>Machine Learning for Operational Weather Forecasting</u>. National Weather Service SOO/DOH Meeting, Denver, CO, August 2023. 
+
+Clark, A. J., K. A. Hoogewind, <b>A. J. Hill</b>, B. T. Gallo, A. Berrington, and E. D. Loken, 2023: <u>Extended Range Machine-Learning Severe Weather Guidance Based on the Operational GEFS</u>. 28th Conference on Numerical Weather Prediction, Madison, WI. 
 
 <b>Hill, A. J.</b> and R. S. Schumacher, 2023: <u>How long of an observational record is needed for skillful ML-based forecasts of excessive rainfall?</u> 32nd Conference on Weather Analysis and Forecasting, Madison, WI. 
 
@@ -50,6 +64,23 @@ Schumacher, R. S. and <b>A. J. Hill</b>, 2023: <u>Sources of Forecast Errors for
 <b>Hill, A. J.</b> and R. S. Schumacher, 2023: <u>Leveraging the Power of Machine Learning for Excessive Rainfall Forecasting</u>. 15th International Conference on Mesoscale Convective Systems, Fort Collins, CO, 12.7. 
 
 <b>Hill, A. J.</b> and R. S. Schumacher, 2023: <u>Predictions of Severe Weather with Random Forests and the Global Ensemble Forecast System</u>. European Conference on Severe Storms. 
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>Probabilistic Predictions of Severe Weather with Machine Learning</u>. NWS WFO Indianapolis
+Regional Training, virtual, April 2023. 
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>Using Machine Learning to Identify Severe Weather and Excessive Rainfall Risk Areas</u>. NWS
+Central Region Spring Seasonal Symposium, virtual, March/April 2023. 
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>A Forest of Forecasts? Leveraging Machine Learning for High-Impact Weather
+Forecasting</u>. SUNY Albany Department of Atmospheric and Environmental Sciences, interview, March 2023. 
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>A Forest of Forecasts? Leveraging Machine Learning for High-Impact Weather
+Forecasting</u>. University of Oklahoma School of Meteorology, interview, March 2023. 
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>Advancing High-Impact Weather Hazard Forecasting with Machine Learning</u>. Florida 
+State University Department of Earth, Ocean, and Atmospheric Sciences, interview, March 2023. 
+
+<b>[INVITED] Hill, A. J.</b>, 2023: <u>Moving beyond dynamics-based weather forecasting toward machine learning</u>. University of Nebraska-Lincoln Stout Lecture, February 2023. 
 
 <b>Hill, A. J.</b> and A. Mazurek, 2023: <u>The CSU-MLP Hazardous Weather Prediction System</u>. National Weather Service Norman Weather Forecast Office, Norman, OK. 
 
@@ -87,6 +118,9 @@ Schumacher R. S. and <b>A. J. Hill</b>, 2022: <u>Advancing high-impact weather p
 
 Schumacher, R. S. and <b>A. J. Hill</b>, 2022: <u>Updates and Improvements to Colorado State University-Machine Learning Probabilities Excessive Rainfall Forecasts</u>. Hydrometeorological Testbed Flash Flood and Intense Rainfall Experiment, virtual.
 
+<b>[INVITED] Hill, A. J.</b>, 2022: <u>Generating probabilistic machine-learned forecasts for severe weather and excessive rainfall
+prediction</u>. National Weather Service Central Region Headquarters, virtual, July 2022.
+
 <b>Hill, A. J.</b>, 2022: <u>Probabilistic Predictions of Severe Weather with Machine Learning</u>. Columbia, SC Weather Forecast Office Severe Weather Workshop, virtual.
 
 Cheeseman, M., B. Ford, Z. Rosen, E. Wendt, A. J. DesRosiers, <b>A. J. Hill</b>, C. L’Orange, C. Quinn, M. Long, S. H. Jathar, J. Volckens, and J. R. Pierce, 2022: <u>Neighborhood Scale Variability of Co-incident PM2.5 and AOD: Results from Citizen Enabled Aerosol Measurements for Satellites (CEAMS)</u>. 24th Conference on Atmospheric Chemistry, poster.
@@ -113,6 +147,13 @@ Schumacher, R. S., <b>A. J. Hill</b>, and I. L. Jirak, 2022: <u>Probabilistic fo
 
 Schumacher, R. S. and <b>A. J. Hill</b>, 2021: <u>Advancing Probabilistic Prediction of High-Impact Weather Using Ensemble Reforecasts and Machine Learning</u>. UFS Webinar Series, virtual.
 
+<b>[INVITED] Hill, A. J.</b>, 2021: <u>Learning from machines: High-impact weather forecasting with Artificial Intelligence</u>.
+University of Florida Department of Geography, virtual interview, March 2021
+
+<b>[INVITED] Hill, A. J.</b>, 2021: <u>Learning from machines: improving high-impact weather forecasts with Artificial Intelligence</u>.
+Northern Illinois University Department of Geographic and Atmospheric Sciences, virtual interview, March 2021
+
+
 <b>Hill, A. J.</b> and R. S. Schumacher, 2021: <u>Medium-range severe weather forecasts with random forests</u>. 20th Conference on Artificial Intelligence for Environmental Science, 3.2.
 
 <b>Hill, A. J.</b> and R. S. Schumacher, 2021: <u>Short-term excessive rainfall forecasts using random forests and a deterministic convection-allowing model</u>. 20th Conference on Artificial Intelligence for Environmental Science, joint 12.8.
@@ -130,6 +171,15 @@ Schumacher, R. S., <b>A. J. Hill</b>, M. Klein, J. Nelson, M. J. Erickson, and G
 <b>Hill, A. J.</b>, C. C. Weiss, and D. C. Dowell, 2020: <u>Assimilating near-surface observations from a portable mesoscale network of StickNet platforms during VORTEX-SE with the High Resolution Rapid Refresh Ensemble</u>. Severe Local Storms Symposium, Boston, MA., 950
 
 <b>Hill, A. J.</b>, R. S. Schumacher, M. Klein, J. Nelson, and M. Erickson, 2020: <u>First-guess excessive rainfall outlooks from machine learning models</u>. Hydrometeorological Testbed Flash Flood and Intensive Rainfall Experiment.
+
+<b>[INVITED] Hill, A. J.</b>, 2020: <u>Machine learning for convection hazard forecasts</u>. NWS Southern Region Science and
+Technology Services Division Science Circle, virtual, 2020
+
+<b>[INVITED] Hill, A. J.</b>, 2020: <u>Forecasting our future: machine learning and AI for high-impact weather</u>. National Weather 
+Association Annual Meeting, virtual, 2020
+
+<b>[INVITED] Hill, A. J.</b>, 2020: <u>Statistical tools for high-impact weather</u>. Naval Postgraduate School, Monterey, CA,
+interview, 2020
 
 McDonald, J. M., C. C. Weiss, and <b>A. J. Hill</b>, 2020: <u>Properties of cold pools observed during the VORTEX-SE: Meso18-19 field campaign</u>. Severe Local Storms Symposium, Boston, MA., 946
 
@@ -154,6 +204,9 @@ Ancell, B. C., A. A. Coleman, <b>A. J. Hill</b>, and C. C. Weiss, 2018: <u>Ensem
 <b>Hill, A. J.</b>, C. C. Weiss, and B. C. Ancell, 2018: <u>Towards improving forecasts of severe convection along the dryline through targeted observing with ensemble sensitivity analysis</u>. 29th Conference on Severe Local Storms, Stowe, VT, paper 14.2.
 
 <b>Hill, A. J.</b>, C. C. Weiss, and D. C. Dowell, 2018: <u>Exploring the utility of assimilating observations from a mesoscale network of StickNet platforms during VORTEX-SE with the High Resolution Rapid Refresh Ensemble</u>. 29th Conference on Severe Local Storms, Stowe, VT, paper 74.
+
+<b>[INVITED] Hill, A. J.</b>, 2018: <u>The utility of ensemble-sensitivity analysis for targeted observing, ensemble subsetting, and
+investigating environmental controls on storm characteristics</u>. Cooperative Institute for Research in the Atmosphere, Fort Collins, CO, 2018
 
 <b>Hill, A. J.</b>, C. C. Weiss, and B. C. Ancell, 2018: <u>Ensemble-sensitivity analysis based observation targeting experiments for mesoscale convection forecasts and factors influencing observation-impact prediction</u>. 22nd Conference on Integrated Observing and Assimilation Systems for the Atmosphere, Oceans, and Land Surface, Austin, TX, paper 613.
 
