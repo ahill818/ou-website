@@ -17,7 +17,19 @@ header:
 
 <h3>2024</h3>
 
-<b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. EGU General Assembly 2024, Vienna, Austria. <br />
+<b>Hill, A. J.</b> and J. Radford, 2024: <u>Postprocessing Data-Driven AI Forecasting Models for Hazardous Weather Prediction</u>. 31st Conference on Severe Local Storms, Virginia Beach, VA, October 2024. 
+
+Schumacher, R. S. and <b>A. J. Hill</b>, 2024: <u>Extreme-rain-producing mesoscale convective systems in the contiguous US in observations and a convection-permitting regional climate model</u>. International Conference on Mesoscale Convective Systems, Gyeongju City, South Korea, October 2024.
+
+Schumacher, R. S. and <b>A. J. Hill</b>, 2024: <u>Assessment of the representation of extreme rainfall in CONUS404</u>. 8th Convection Permitting Climate Modeling Workshop, Fort Collins, CO, September 2024.
+
+<b>Hill, A. J.</b> and others, 2024: <u>Panel: FIG Town Hall Part 2: Forecasting Trends: The Balance between NWP and AI and How It Will Evolve in the Near or Distant Future</u>. American Meteorological Society Webinar, June 2024.
+
+<b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-range Forecasts of Excessive Rainfall with the CSU-MLP</u>. Hydrometeorological Testbed Flash Flood and Intensive Rainfall Experiment, virtual. <br />
+
+<b>[INVITED] Hill, A. J.</b>, 2024: <u>AI and Applications to Hazardous Weather Forecasting</u>. ESIG 2024 Forecasting and Markets Workshop, Salt Lake City, UT, June 2024. 
+
+<b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. EGU General Assembly 2024, Vienna, Austria. 
 
 <b>[INVITED] Hill, A. J.</b>, 2024: <u>Our New Forecasting Paradigm: Artificial Intelligence.</u> 2024 Severe Storms and Doppler
 Radar Conference, Central Iowa NWA Chapter, March 2024. 
