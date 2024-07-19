@@ -22,7 +22,7 @@ organizations:
     url: http://meteorology.ou.edu/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'Christian.T.Mcginty-1@ou.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -33,7 +33,7 @@ user_groups:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:Christian.T.Mcginty-1@ou.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/

@@ -22,7 +22,7 @@ organizations:
     url: http://meteorology.ou.edu/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'kelly.m.geiger@ou.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -33,7 +33,7 @@ user_groups:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:kelly.m.geiger@ou.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
