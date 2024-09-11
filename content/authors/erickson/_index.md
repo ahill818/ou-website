@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Nathan joined OU and the SoM in Summer 2024. He is co-advised by Dr. Amy McGovern and myself. 
+Nathan joined OU and the SoM in Summer 2024. He is co-advised by Dr. Amy McGovern and Dr. Hill and is researching the application of deep learning techniques for tornado prediction. 

@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Christian joined the group in Fall 2024. 
+Christian joined the group in Fall 2024. Christian is working towards developing machine learning prediction systems for high-impact weather hazards. 

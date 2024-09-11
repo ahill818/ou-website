@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hanna McDaniel
+title: Marina Vicens-Miquel
 
 # Full name (for SEO)
-first_name: Hanna
-last_name: McDaniel
+first_name: Marina
+last_name: Vicens-Miquel
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: Postdoctoral Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,18 +22,18 @@ organizations:
     url: http://meteorology.ou.edu/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hmcdaniel@ou.edu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-  - Graduate Students
+  - Researchers
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hmcdaniel@ou.edu'
+    link: 'mailto:test@example.org'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Hanna joined the group in Fall 2024. Hanna is working on applying machine learning and deep learning techniques to diagnose mesovortices in radar data that produce tornadoes. 
+Marina joined the group in the summer of 2024. Marina is co-supervised by Dr. Hill and Dr. Amy McGovern. Marina is focusing on developing AI systems for extreme weather predictions, including extreme rainfall. 

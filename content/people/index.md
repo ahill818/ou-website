@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: CHAOS Group
+      title: 
       subtitle: 
       text: <p align="center"><img src="group.png"/></p>
     design:

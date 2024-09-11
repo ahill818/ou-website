@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Hanna McDaniel
+title: Evan White
 
 # Full name (for SEO)
-first_name: Hanna
-last_name: McDaniel
+first_name: Evan
+last_name: White
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: Undergraduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,18 +22,18 @@ organizations:
     url: http://meteorology.ou.edu/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'hmcdaniel@ou.edu'
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
 user_groups:
-  - Graduate Students
+  - Undergraduate Students
 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:hmcdaniel@ou.edu'
+    link: 'mailto:test@example.org'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Hanna joined the group in Fall 2024. Hanna is working on applying machine learning and deep learning techniques to diagnose mesovortices in radar data that produce tornadoes. 
+Evan joined the group in Fall 2024. Evan is working on developing hazardous weather predictions through postprocessing of global model forecasts. 

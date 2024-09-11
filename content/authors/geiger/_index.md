@@ -46,3 +46,5 @@ social:
 ---
 
 Kelly is from Long Island, New York and received a Bachelor's degree in Atmospheric Science at the University at Albany. Kelly is interested in all things severe weather related. Outside of weather, Kelly loves going on nature walks and going to the beach, going to concerts, watching WNBA games, and is an avid book reader. 
+
+Kelly is researching the environmental and storm-based influences on extreme rainfall, using both machine learning and traditional physics-based simulations. 
