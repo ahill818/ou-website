@@ -5,6 +5,15 @@ date: 2024-06-26
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: CHAOS Group
+      subtitle: 
+      text: ![image](group.png "CHAOS Group")
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'  
   - block: people
     content:
       title: CHAOS Research Group
