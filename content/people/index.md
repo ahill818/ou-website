@@ -9,7 +9,7 @@ sections:
     content:
       title: CHAOS Group
       subtitle: 
-      text: <a href="group.png" rel="text" class="center">![image](group.png)
+      text: <center><a href="group.png" rel="text">![image](group.png)</center>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
