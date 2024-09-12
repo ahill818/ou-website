@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Evan joined the group in Summer 2024. 
+Evan joined the group in Summer 2024. Evan is co-advised by Dr. Hill and Dr. Cameron Homeyer and their research focuses on quantitative evaluations of AI model performance and qualitative assessments of model skill for case studies of high-impact weather events. In free time, Evan enjoys knitting and knitwear design. 
