@@ -45,4 +45,6 @@ social:
   #   link: https://github.com
 ---
 
-Marina joined the group in the summer of 2024. Marina is co-supervised by Dr. Hill and Dr. Amy McGovern. Marina is focusing on developing AI systems for extreme weather predictions, including extreme rainfall. 
+Dr. Vicens-Miquel joined the School of Meteorology in Summer 2024 and is a postdoctoral research associate working under the guidance of Dr. Amy McGovern and Dr. Aaron Hill. Her postdoctoral research focuses on enhancing the accuracy, uncertainty quantification, and explainability of extreme precipitation predictions through advanced machine-learning techniques.
+
+Dr. Vicens-Miquel holds a double major BS in Computer Science and Mathematics, as well as a Ph.D. in Geospatial Computer Science from Texas A&M University-Corpus Christi. Her doctoral research concentrated on applying machine learning to coastal studies, with a particular focus on predicting coastal inundation.
