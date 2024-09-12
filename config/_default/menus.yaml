@@ -14,7 +14,7 @@ main:
     url: '#research'
     weight: 30
   - name: People
-    url: 'content/people/'
+    url: 'people'
     weight: 40
   - name: Publications
     url: '#rec_pubs'
