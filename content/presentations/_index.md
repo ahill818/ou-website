@@ -17,6 +17,14 @@ header:
 
 <h3>2024</h3>
 
+<b>[INVITED] Hill, A. J.</b>, 2024: <u>Supporting National Forecast Center Operations with Machine Learning-generated Outlooks</u>. American Geophysical Union Fall Meeting, Washington, D.C.
+
+Clark, A., D. Harrison, T. Sandmael, K. Calhoun, E. Loken, M. Hosek, <b>A. J. Hill</b>, K. Hoogewind, M. Flora, C. Potvin, I. Jirak, 2025: <u>Enhancing Severe Weather Risk Communications with Artificial Intelligence</u>. American Geophysical Union Fall Meeting, Washington, D.C.
+
+<b>Hill, A. J.</b>, 2024: <u>Demystifying AI/ML</u>. Storm Prediction Center Annual Forecaster Training, Norman, OK. 
+
+<b>Hill, A. J.</b>, 2024: <u>AI4AI: Developing Actionable Insights with Artificial Intelligence for improved hazardous weather forecasts</u>. Texas A&M Department of Atmospheric Sciences Fall Seminar Series. 
+
 <b>Hill, A. J.</b> and J. Radford, 2024: <u>Postprocessing Data-Driven AI Forecasting Models for Hazardous Weather Prediction</u>. 31st Conference on Severe Local Storms, Virginia Beach, VA, October 2024. 
 
 Schumacher, R. S. and <b>A. J. Hill</b>, 2024: <u>Extreme-rain-producing mesoscale convective systems in the contiguous US in observations and a convection-permitting regional climate model</u>. International Conference on Mesoscale Convective Systems, Gyeongju City, South Korea, October 2024.

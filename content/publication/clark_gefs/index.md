@@ -21,7 +21,7 @@ date: "2024-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Weather and Forecasting, submitted"
+publication: "Weather and Forecasting, in review"
 #publication_short: "WAF"
 
 tags:

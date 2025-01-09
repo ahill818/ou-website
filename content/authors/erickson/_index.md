@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Nathan joined OU and the SoM in Summer 2024. He is co-advised by Dr. Amy McGovern and Dr. Hill and is researching the application of deep learning techniques for tornado prediction. 
+Nathan joined OU and the SoM in Summer 2024. Nathan is a PhD student being co-advised by Dr. Hill and Dr. Amy McGovern; his research currently focuses on the application of deep learning techniques to short-term tornado prediction. He is originally from Olathe, KS, and he obtained his B.S. and M.S. in meteorology from Iowa State University. Outside of research, Nathan enjoys running, playing video games, and spending time with friends.

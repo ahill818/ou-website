@@ -14,6 +14,18 @@ header:
   image: ""
 
 ---
+<b>01/08/2024</b>
+
+Some overdue announcements: the CHAOS group welcomed Rebecca Oh and Evan White to the group this fall as undergraduate researchers! Rebecca is working on a project to understand how climate change impacts severe storm predictability while Evan is researching how to apply AI postprocessing techniques to global AI weather models to produce hazardous weather forecasts. 
+
+Dr. Hill presented some of Evan White's early postprocessing work at the Severe Local Storms conference this past October in Virginia Beach, and will follow that up with a presentation at the AMS Annual Meeting in January. 
+
+Dr. Hill mentored a Senior Capstone group this fall and they successfully presented their work showcasing an AI application to predict updraft strenghthening in supercells - congrats Gabriel, Andrew, Victor, and Evan!
+
+Dr. Hill also attended the AGU Fall Meeting, giving a presentation on how AI can improve impact-based decision support services, and he visited the Texas A&M Department of Atmospheric Sciences this fall for their Colloquium series. 
+
+Finally, a number of members of the CHAOS group will be presenting their work at the AMS annual meeting in New Orleans. 
+
 <b>07/08/2024</b>
 
 Welcome Evan Sudler to the research group! Evan is pursuing his B.S. degree in Meteorology in the School of Meteorology at OU. Evan will be working on evaluating the skill of global AI-based weather forecast models for high-impact weather. 

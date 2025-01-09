@@ -7,7 +7,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-02-16T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: "https://doi.org/10.1175/WAF-D-24-0033.1"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ doi: "https://doi.org/10.1175/WAF-D-24-0033.1"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Weather and Forecasting, in press."
+publication: "Weather and Forecasting, 39, 1733-1750"
 #publication_short: "WAF"
 
 tags:
