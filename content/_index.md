@@ -57,7 +57,8 @@ sections:
           description: |2-
               Classes taught:
 
-              * METR 1313: Introduction to Programming for Meteorology (Spring 2024)
+              * METR 1313: Introduction to Programming for Meteorology (Spring 2024, 2025)
+              * METR 5970: AI for Environmental Science (Fall 2024)
         - title: Research Scientist (I/II)
           company: Colorado State University
           company_url: ''

@@ -9,7 +9,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2024-12-05T00:00:00Z"
-]doi: "https://doi.org/10.1175/WAF-D-23-0193.1"
+doi: "https://doi.org/10.1175/WAF-D-23-0193.1"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
