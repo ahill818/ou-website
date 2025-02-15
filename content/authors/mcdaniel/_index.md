@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Hanna joined the group in Fall 2024. Hanna is working on applying machine learning and deep learning techniques to diagnose mesovortices in radar data that produce tornadoes. 
+Hanna earned her B.S. from Florida State University and joined the group in Fall 2024. Hanna is working on applying machine learning and deep learning techniques to diagnose mesovortices in radar data that produce tornadoes. 
