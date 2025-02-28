@@ -255,16 +255,21 @@ sections:
       text: |-
         Full list of presentations <a href="./presentations/">here</a>
 
-        <b>Hill, A. J.</b> and R. S. Schumacher, 2024: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. EGU General Assembly 2024, Vienna, Austria. <br />
+        McClung, B. T., D. Schvartzman, <b>A. J. Hill</b>, M. Stock, and A. McGovern, 2025: <u>BoltCast: Deep Learning for Long Term Lightning Prediction</u>. 12th Conference on the Meteorological Application of Lightning Data, New Orleans, LA. 
 
-        Gagne II, D. J., and Coauthors, 2024: <u>Lessons Learned from Building Real-Time Machine Learning Testbeds for AI2ES</u>. 14th Conference on Transition of Research to Operations, Baltimore, MD. 
+        Clark, A., <b>A. J. Hill</b>, K. Hoogewind, A. Berrington, and E. Loken, 2025: <u>Extended range machine-learning severe weather guidance based on the operational GEFS</u>. 33rd Conference on Weather Analysis and Forecasting, New Orleans, LA. 
 
-        Green, M. R. L., <b>A. J. Hill</b>, and R. S. Schumacher, 2024: <u>Understanding Training Data Components for Excessive Rainfall Machine-Learning Models: A look inside the Unified Flooding Verification System</u>. 23rd Annual AMS Student Conference, Baltimore, MD. 
+        Erickson, N., A. McGovern, and <b>A. J. Hill</b>, 2025: <u>Deep Learning for Short-Term Characterization of Tornado Intensity</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
 
-        Mazurek, A. C., R. S. Schumacher, and <b>A. J. Hill</b>, 2024: <u>When Do Machine Learning Forecasts Succeed and Fail? Evaluating Synoptic Regimes Associated With a Random Forest's Good and Bad Severe Weather Predictions</u>. 14th Conference on Transition of Research to Operations, Baltimore, MD. 
+        <b>Hill, A. J.</b>, D. J. Bodine, S. M. Cavallo, B. G. Ilston, Z. J. Lebo, and D. Schvartzman, 2025: <u>Preparing the Next Generation of Meteorological Data Scientists: Redesigning Curricula for Student Success</u>. 34th Conference on Education, New Orleans, LA. 
 
-        Mazurek, A. C., <b>A. J. Hill</b>, R. S. Schumacher, and H. J. McDaniel, 2024: <u>Ingredients-Based Explainability: Using Tree Interpreter to Disaggregate a Random Forest's Severe Weather Predictions</u>. 23rd Conference on Artificial Intelligence for Environmental Science, Baltimore, MD.
+        <b>Hill, A. J.</b>, E. White, and J. Radford, 2025: <u>An AI-Machine Learning Probabilities (AI-MLP) Forecast System for Hazardous Weather Prediction</u>. 33rd Conference on Weather Analysis and Forecasting, New Orleans, LA. 
 
+        <b>Hill, A. J.</b> and R. S Schumacher, 2025: <u>Machine Learning Probability Ensembles for Medium-Range Excessive Rainfall Prediction</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+
+        Madsen M., A. McGovern, D. Harrison, A. Clark, M. Baldwin, S. Ernst, J. T. Ripberger, and <b>A. J. Hill</b>, 2025: <u>Perceptions and Performance of Global AI Models in the 2024 NOAA Hazardous Weather Testbed</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+
+        Schumacher, R. S. and <b>A. J. Hill</b>, 2025: <u>Quality-controlled databases of US extreme rainfall events based on gridded precipitation estimates and convection-permitting model output</u>. 39th Conference on Hydrology, New Orleans, LA. 
 
       filters:
         folders:

@@ -15,11 +15,26 @@ header:
   image: ''
 ---
 
+<h3>2025</h3>
+^McClung, B. T., D. Schvartzman, <b>A. J. Hill</b>, M. Stock, and A. McGovern, 2025: <u>BoltCast: Deep Learning for Long Term Lightning Prediction</u>. 12th Conference on the Meteorological Application of Lightning Data, New Orleans, LA. 
+
+Clark, A., <b>A. J. Hill</b>, K. Hoogewind, A. Berrington, and E. Loken, 2025: <u>Extended range machine-learning severe weather guidance based on the operational GEFS</u>. 33rd Conference on Weather Analysis and Forecasting, New Orleans, LA. 
+
+Erickson, N., A. McGovern, and <b>A. J. Hill</b>, 2025: <u>Deep Learning for Short-Term Characterization of Tornado Intensity</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+
+<b>Hill, A. J.</b>, D. J. Bodine, S. M. Cavallo, B. G. Ilston, Z. J. Lebo, and D. Schvartzman, 2025: <u>Preparing the Next Generation of Meteorological Data Scientists: Redesigning Curricula for Student Success</u>. 34th Conference on Education, New Orleans, LA. 
+
+<b>Hill, A. J.</b>, E. White, and J. Radford, 2025: <u>An AI-Machine Learning Probabilities (AI-MLP) Forecast System for Hazardous Weather Prediction</u>. 33rd Conference on Weather Analysis and Forecasting, New Orleans, LA. 
+
+<b>Hill, A. J.</b> and R. S Schumacher, 2025: <u>Machine Learning Probability Ensembles for Medium-Range Excessive Rainfall Prediction</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+
+Madsen M., A. McGovern, D. Harrison, A. Clark, M. Baldwin, S. Ernst, J. T. Ripberger, and <b>A. J. Hill</b>, 2025: <u>Perceptions and Performance of Global AI Models in the 2024 NOAA Hazardous Weather Testbed</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+
+Schumacher, R. S. and <b>A. J. Hill</b>, 2025: <u>Quality-controlled databases of US extreme rainfall events based on gridded precipitation estimates and convection-permitting model output</u>. 39th Conference on Hydrology, New Orleans, LA. 
+
 <h3>2024</h3>
 
 <b>[INVITED] Hill, A. J.</b>, 2024: <u>Supporting National Forecast Center Operations with Machine Learning-generated Outlooks</u>. American Geophysical Union Fall Meeting, Washington, D.C.
-
-Clark, A., D. Harrison, T. Sandmael, K. Calhoun, E. Loken, M. Hosek, <b>A. J. Hill</b>, K. Hoogewind, M. Flora, C. Potvin, I. Jirak, 2025: <u>Enhancing Severe Weather Risk Communications with Artificial Intelligence</u>. American Geophysical Union Fall Meeting, Washington, D.C.
 
 <b>Hill, A. J.</b>, 2024: <u>Demystifying AI/ML</u>. Storm Prediction Center Annual Forecaster Training, Norman, OK. 
 
