@@ -197,16 +197,14 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Machine Learning
+        - name: AI/ML Applications in Forecasting
           tag: Machine Learning
-        - name: Predictability
+        - name: Predictability of High Impact Weather
           tag: predictability
-        - name: Targeted Observing
-          tag: targeting
-        - name: Data Assimilation
-          tag: da
-        - name: Dynamics
+        - name: Convection Dynamics
           tag: dynamics
+        - name: Sensitivity Analysis
+          tag: sensitivity
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
