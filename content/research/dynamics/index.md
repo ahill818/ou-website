@@ -2,7 +2,7 @@
 title: Severe Storm Dynamics
 summary: Improving the real-time detection of tornados through understanding of environmental precursors
 tags:
-  - Dynamics
+  - dynamics
 date: '2023-08-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

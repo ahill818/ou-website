@@ -1,8 +1,8 @@
 ---
-title: Observation Targeting
+title: Sensitivity Analysis and Targeted Observing
 summary: Targeted observations are used to sample the atmosphere in strategic ways to improve forecasts
 tags:
-  - Targeting
+  - sensitivity
 date: '2023-08-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
