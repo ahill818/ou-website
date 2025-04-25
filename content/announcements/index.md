@@ -14,6 +14,9 @@ header:
   image: ""
 
 ---
+<b>04/25/2025</b>
+Welcome Mandy Voth and Braelyn Long to the group, two new undergraduate researchers! Both will be working on understanding the environmental evolution preceeding tornadogenesis with QLCS mesovortices. 
+
 <b>01/08/2024</b>
 
 Some overdue announcements: the CHAOS group welcomed Rebecca Oh and Evan White to the group this fall as undergraduate researchers! Rebecca is working on a project to understand how climate change impacts severe storm predictability while Evan is researching how to apply AI postprocessing techniques to global AI weather models to produce hazardous weather forecasts. 
