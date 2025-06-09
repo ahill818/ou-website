@@ -14,8 +14,9 @@ header:
   image: ""
 
 ---
-<b>05/16/2025</b>
-Testing! 
+<b>05/22/2025</b>
+
+This summer, Ian Shank from UNC Charlotte will be an REU student in the group! Ian will be evaluating machine learning forecasts of severe weather to generate additional statistics and value for our operational partners. 
 
 <b>04/25/2025</b>
 
