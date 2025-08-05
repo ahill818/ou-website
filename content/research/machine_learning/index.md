@@ -3,6 +3,7 @@ title: Machine Learning for Forecasting
 summary: Machine learning tools are being used to generate valuable products that aid operational forecasting
 tags:
   - Machine Learning
+  - predictability
 date: '2023-08-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
