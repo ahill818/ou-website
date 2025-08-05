@@ -63,10 +63,10 @@ Medium-range excessive rainfall forecasts with machine learning models. Support:
 Generating calibrated forecast guidance for severe weather beyond day 1. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.
 
 <h3>Papers:</h3>
-<a href=publication/mazureketal2024/> Can Ingredients-Based Forecasting be Learned? Disentangling a Random Forest's Severe Weather Predictions</a><br />
+<a href=~/publication/mazureketal2024/> Can Ingredients-Based Forecasting be Learned? Disentangling a Random Forest's Severe Weather Predictions</a><br />
 
-<a href=publication/ob_biases/>Observation Definitions and their Implications in Machine Learning-based Predictions of Excessive Rainfall</a><br />
+<a href=~/publication/ob_biases/>Observation Definitions and their Implications in Machine Learning-based Predictions of Excessive Rainfall</a><br />
 
-<a href=publication/clark_gefs/>Extended range machine-learning severe weather guidance based on the operational GEFS</a><br />
+<a href=~/publication/clark_gefs/>Extended range machine-learning severe weather guidance based on the operational GEFS</a><br />
 
-<a href=publication/csumlp_severe_mr/>A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions</a>
+<a href=~/publication/csumlp_severe_mr/>A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions</a>
