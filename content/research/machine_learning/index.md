@@ -58,15 +58,18 @@ Collaborative Research: What drives the most extreme rainstorms in the contiguou
 US?. Support: <b><u>National Science Foundation</u></b>.
 
 <h3>Past Projects:</h3>
-Medium-range excessive rainfall forecasts with machine learning models. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>. <br/>
+<ul>
+<li>Medium-range excessive rainfall forecasts with machine learning models. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.</li>
 
-Generating calibrated forecast guidance for severe weather beyond day 1. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.
-
+<li>Generating calibrated forecast guidance for severe weather beyond day 1. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b></li>
+</ul>
 <h3>Papers:</h3>
-<a href=/publication/mazureketal2024/> Can Ingredients-Based Forecasting be Learned? Disentangling a Random Forest's Severe Weather Predictions</a><br/>
+<ul>
+<li><a href=/publication/mazureketal2024/>Can Ingredients-Based Forecasting be Learned? Disentangling a Random Forest's Severe Weather Predictions</a></li>
 
-<a href=/publication/ob_biases/>Observation Definitions and their Implications in Machine Learning-based Predictions of Excessive Rainfall</a><br/>
+<li><a href=/publication/ob_biases/>Observation Definitions and their Implications in Machine Learning-based Predictions of Excessive Rainfall</a></li>
 
-<a href=/publication/clark_gefs/>Extended range machine-learning severe weather guidance based on the operational GEFS</a><br/>
+<li><a href=/publication/clark_gefs/>Extended range machine-learning severe weather guidance based on the operational GEFS</a></li>
 
-<a href=/publication/csumlp_severe_mr/>A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions</a>
+<li><a href=/publication/csumlp_severe_mr/>A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions</a></li>
+</ul>
