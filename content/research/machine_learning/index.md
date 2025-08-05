@@ -53,20 +53,20 @@ Skill and resolution metrics also suggest that forecasts can be made skillfully 
 <img src="day45_skill.png" alt="Precip Forecast">
 Figure: (left) Brier Skill Score aggregated over 1.5 years of forecasts for multiple versions of the CSU-MLP excessive rainfall models (see Figure legend) and the WPC Excessive Rainfall Outlook (ERO) at days 1--5; days 4 and 5 have a smaller sample of forecasts, denoted by "n" along the x-axis. As in the Brier Skill Score panel, but plotted is Area under the Relative Operating Characterisitic (ROC) curve.
 
-<h3>Current Projects Support this Research:</h3>
+<h3>Current Projects Supporting this Research:</h3>
 Collaborative Research: What drives the most extreme rainstorms in the contiguous
 US?. Support: <b><u>National Science Foundation</u></b>.
 
 <h3>Past Projects:</h3>
-Medium-range excessive rainfall forecasts with machine learning models. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.
+Medium-range excessive rainfall forecasts with machine learning models. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>. <br />
 
 Generating calibrated forecast guidance for severe weather beyond day 1. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.
 
 <h3>Papers:</h3>
-<a href=“publication/mazureketal2024/“> Can Ingredients-Based Forecasting be Learned? Disentangling a Random Forest's Severe Weather Predictions</a>
+<a href=publication/mazureketal2024/> Can Ingredients-Based Forecasting be Learned? Disentangling a Random Forest's Severe Weather Predictions</a><br />
 
-<a href=“publication/ob_biases/“>Observation Definitions and their Implications in Machine Learning-based Predictions of Excessive Rainfall</a>
+<a href=publication/ob_biases/>Observation Definitions and their Implications in Machine Learning-based Predictions of Excessive Rainfall</a><br />
 
-<a href=“publication/clark_gefs/”>Extended range machine-learning severe weather guidance based on the operational GEFS</a>
+<a href=publication/clark_gefs/>Extended range machine-learning severe weather guidance based on the operational GEFS</a><br />
 
-<a href=“publication/csumlp_severe_mr/”>A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions</a>
+<a href=publication/csumlp_severe_mr/>A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions</a>
