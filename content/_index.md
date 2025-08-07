@@ -318,5 +318,3 @@ sections:
     design:
       columns: '2'
 ---
-
-<h1>Announcement:</h1>

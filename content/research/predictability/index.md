@@ -36,14 +36,15 @@ Data assimilation procedures, which combine first-guess four-dimensional snap sh
 More broadly, the predictability of severe convective storms and their hazards are a function of the initial conditions and chosen model architecture. As a result, there is an inherent, practical limit to predictability beyond a certain threshold (usually determined ~2 weeks) after which the chaotic nature of the atmosphere saturates all error sources and predictability is lost. However, we are increasingly learning that the application of AI in this space has vast potential to both improve our understanding of atmospheric hazards and potentially increase our practice predictability limits. The CHAOS group is increasingly using machine learning and other AI tools to increase the practical prediction and predictability of severe weather hazards, including concurrent/compounding hazards. 
 
 <h3>Current Projects:</h3>
-Collaborative Research: What drives the most extreme rainstorms in the contiguous
-US?. Support: <b><u>National Science Foundation</u></b>.
+<ul>
+<li>Collaborative Research: What drives the most extreme rainstorms in the contiguous
+US?. Support: <b><u>National Science Foundation</u></b>.</li>
 
-Collaborative Research: Mesoscale Predictability Across Climate Regimes.
-Support: <b><u>National Science Foundation</u></b>.
+<li>Collaborative Research: Mesoscale Predictability Across Climate Regimes.
+Support: <b><u>National Science Foundation</u></b>.</li>
 
-Predicting Co-occurring Tornado and Flash Flood Events. Support: <b><u>University of Oklahoma</u></b>.
-
+<li>Predicting Co-occurring Tornado and Flash Flood Events. Support: <b><u>University of Oklahoma</u></b>.</li>
+</ul>
 <h3>Past Projects:</h3>
 Medium-range excessive rainfall forecasts with machine learning models. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.
 
