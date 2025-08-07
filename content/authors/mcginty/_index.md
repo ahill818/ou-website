@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Graduate Research Assistant
+role: Graduate Research Assistant<br /><br />Co-occuring Tornado and Flash Flood Events
 
 # Organizations/Affiliations to show in About widget
 organizations:

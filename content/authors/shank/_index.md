@@ -28,12 +28,12 @@ email: ''
 highlight_name: true
 
 user_groups:
-  - Undergraduate Students
+  - Alumni
 
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:test@example.org'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Ian Shank joined the group in the summer 2025 as an REU student from UNC Charlotte. Ian will be working on evaluating machine learning forecasts of severe weather to share with our operational partners. 
+Ian Shank joined the group in the summer 2025 as an REU student from UNC Charlotte. Ian completed an evaluation of machine learning forecasts for severe weather to share with our operational partners. Ian evaluated the utility of medium-range forecasts in highlighting the potential for severe weather, evaluating the correspondence with short-term human-generated forecasts and observed severe weather reports. The results will increase the usefulness and utility of machine learning forecasts in Storm Prediction Center operations. 
