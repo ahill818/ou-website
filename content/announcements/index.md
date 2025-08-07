@@ -14,6 +14,14 @@ header:
   image: ""
 
 ---
+<b>08/01/2025</b>
+
+Congratulations to Christian McGinty for winning a presentation award for his poster on TORFF outlooks at the recent AMS Mesoscale conference! Hanna McDaniel and Kelly Geiger also presented their M.S. work at AMS Mesoscale for their first graduate school conference presentations! 
+
+In July, Evan White became the first student in the CHAOS group to submit a manuscript to a science journal, AIES - Evan’s project on postprocessing AI weather prediction models adds to a growing list of prediction systems for severe weather hazards. 
+
+Our summer REU student Ian Shank presented his final REU project in late July before we had to say goodbye for the summer. Ian completed an in-depth quantitative analysis of machine learning-based forecasts of severe weather and their utility at extended ranges. 
+
 <b>05/22/2025</b>
 
 This summer, Ian Shank from UNC Charlotte will be an REU student in the group! Ian will be evaluating machine learning forecasts of severe weather to generate additional statistics and value for our operational partners. 
