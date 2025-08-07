@@ -24,7 +24,8 @@ publication: "Journal of Geophysical Research - Atmospheres, in prep"
 #publication_short: "WAF"
 
 tags:
-- Source Themes
+- predictability
+- Machine Learning
 featured: false
 
 # links:

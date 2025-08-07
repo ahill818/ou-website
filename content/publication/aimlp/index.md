@@ -23,7 +23,7 @@ publication: "Artificial Intelligence for the Earth Systems, in review"
 #publication_short: "WAF"
 
 tags:
-- Source Themes
+- Machine Learning
 featured: false
 
 # links:

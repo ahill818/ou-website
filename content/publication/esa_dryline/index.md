@@ -25,6 +25,7 @@ publication: "Monthly Weather Review, 144, 4161-4182"
 
 tags:
 - sensitivity
+- predictability
 featured: false
 
 # links:
@@ -58,5 +59,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---

@@ -24,7 +24,7 @@ publication: "Monthly Weather Review, 148, 2135-2161"
 #publication_short: "WAF"
 
 tags:
-- Source Themes
+- Machine Learning
 featured: false
 
 # links:
@@ -58,5 +58,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
