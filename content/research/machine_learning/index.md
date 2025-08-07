@@ -54,8 +54,10 @@ Skill and resolution metrics also suggest that forecasts can be made skillfully 
 Figure: (left) Brier Skill Score aggregated over 1.5 years of forecasts for multiple versions of the CSU-MLP excessive rainfall models (see Figure legend) and the WPC Excessive Rainfall Outlook (ERO) at days 1--5; days 4 and 5 have a smaller sample of forecasts, denoted by "n" along the x-axis. As in the Brier Skill Score panel, but plotted is Area under the Relative Operating Characterisitic (ROC) curve.
 
 <h3>Current Projects Supporting this Research:</h3>
-Collaborative Research: What drives the most extreme rainstorms in the contiguous
-US?. Support: <b><u>National Science Foundation</u></b>.
+<ul>
+<li>Collaborative Research: What drives the most extreme rainstorms in the contiguous
+US?. Support: <b><u>National Science Foundation</u></b></li>.
+</ul>
 
 <h3>Past Projects:</h3>
 <ul>
@@ -65,6 +67,11 @@ US?. Support: <b><u>National Science Foundation</u></b>.
 </ul>
 <h3>Papers:</h3>
 <ul>
+
+<li><a href=/publication/helene/>Artificial Intelligence Weather Predction Model Performance for Hurricane Helene (2024)</a></li>
+
+<li><a href=/publication/aimlp/>Severe Weather Forecasts from Artificial Intelligence Weather Prediction Models</a></li>
+
 <li><a href=/publication/mazureketal2024/>Can Ingredients-Based Forecasting be Learned? Disentangling a Random Forest's Severe Weather Predictions</a></li>
 
 <li><a href=/publication/ob_biases/>Observation Definitions and their Implications in Machine Learning-based Predictions of Excessive Rainfall</a></li>

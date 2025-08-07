@@ -44,6 +44,13 @@ Mesovortex detection with deep learning. Support: <b><u>University of Oklahoma</
 Collaborative Research: Mesoscale Predictability Across Climate Regimes.
 Support: <b><u>National Science Foundation</u></b>.
 
-<h3>Past Projects:</h3>
+<!--<h3>Past Projects:</h3>-->
 
 <h3>Papers:</h3>
+<ul>
+<li><a href=/publication/vse_portable/> Influence of a portable near-surface observing network on experimental ensemble forecasts of deep convection hazards during VORTEX-SE</a></li>
+<li><a href=/publication/esa_dryline/>Ensemble sensitivity analysis for mesoscale forecasts of dryline convection initiation</a></li>
+<li><a href=/publication/pakistan_flooding/>Multiscale Analysis of Three Consecutive Years of Anomalous Flooding in Pakistan</a></li>
+
+
+</ul>
