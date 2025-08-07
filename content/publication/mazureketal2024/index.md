@@ -8,7 +8,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2024-12-05T00:00:00Z"
+date: "2025-02-01T00:00:00Z"
 doi: "https://doi.org/10.1175/WAF-D-23-0193.1"
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +21,7 @@ doi: "https://doi.org/10.1175/WAF-D-23-0193.1"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Weather and Forecasting, in press"
+publication: "Weather and Forecasting, 40, 237–258"
 #publication_short: "WAF"
 
 tags:
@@ -59,4 +59,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
+slides: ""
 ---
