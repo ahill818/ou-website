@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Undergraduate Research Assistant
+role: Undergraduate Research Assistant<br /><br />AI Weather Model Performance
 
 # Organizations/Affiliations to show in About widget
 organizations:

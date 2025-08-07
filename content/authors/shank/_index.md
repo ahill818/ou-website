@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: REU Student
+role: REU Student<br /><br />Machine Learning for Severe Storms
 
 # Organizations/Affiliations to show in About widget
 organizations:
