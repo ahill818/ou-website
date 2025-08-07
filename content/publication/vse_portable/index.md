@@ -24,7 +24,8 @@ publication: "Weather and Forecasting, 36, 1141-1167"
 #publication_short: "WAF"
 
 tags:
-- Source Themes
+- predictability
+- dynamics
 featured: false
 
 # links:
@@ -58,5 +59,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
