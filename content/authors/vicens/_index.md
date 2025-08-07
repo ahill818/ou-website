@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow<br />Deep Learning and Extreme Rainfall
+role: Postdoctoral Research Fellow<br /><br />Deep Learning and Extreme Rainfall
 
 # Organizations/Affiliations to show in About widget
 organizations:
