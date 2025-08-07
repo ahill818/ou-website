@@ -46,14 +46,15 @@ Support: <b><u>National Science Foundation</u></b>.</li>
 <li>Predicting Co-occurring Tornado and Flash Flood Events. Support: <b><u>University of Oklahoma</u></b>.</li>
 </ul>
 <h3>Past Projects:</h3>
-Medium-range excessive rainfall forecasts with machine learning models. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.
+<ul>
+<li>Medium-range excessive rainfall forecasts with machine learning models. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.</li>
 
-Generating calibrated forecast guidance for severe weather beyond day 1. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.
-
+<li>Generating calibrated forecast guidance for severe weather beyond day 1. Support: <b><u>National Oceanic and Atmospheric Administration Joint Technology Transfer Initiative</u></b>.</li>
+</ul>
 <h3>Papers:</h3>
 <ul>
 <li><a href=/publication/osses>Factors influencing ensemble sensitivity-based targeted observing prediction at convection-allowing resolutions</a></li>
-<<li><a href=/publication/vse_portable/> Influence of a portable near-surface observing network on experimental ensemble forecasts of deep convection hazards during VORTEX-SE</a></li>
+<li><a href=/publication/vse_portable/> Influence of a portable near-surface observing network on experimental ensemble forecasts of deep convection hazards during VORTEX-SE</a></li>
 <li><a href=/publication/esa_dryline/>Ensemble sensitivity analysis for mesoscale forecasts of dryline convection initiation</a></li>
 
 

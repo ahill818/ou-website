@@ -53,10 +53,10 @@ Skill and resolution metrics also suggest that forecasts can be made skillfully 
 <img src="day45_skill.png" alt="Precip Forecast">
 Figure: (left) Brier Skill Score aggregated over 1.5 years of forecasts for multiple versions of the CSU-MLP excessive rainfall models (see Figure legend) and the WPC Excessive Rainfall Outlook (ERO) at days 1--5; days 4 and 5 have a smaller sample of forecasts, denoted by "n" along the x-axis. As in the Brier Skill Score panel, but plotted is Area under the Relative Operating Characterisitic (ROC) curve.
 
-<h3>Current Projects Supporting this Research:</h3>
+<h3>Current Projects:</h3>
 <ul>
 <li>Collaborative Research: What drives the most extreme rainstorms in the contiguous
-US?. Support: <b><u>National Science Foundation</u></b></li>.
+US?. Support: <b><u>National Science Foundation.</u></b></li>
 </ul>
 
 <h3>Past Projects:</h3>
