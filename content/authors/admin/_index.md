@@ -83,7 +83,7 @@ user_groups:
   - Principal Investigator
 ---
 
-<b>ANNOUNCEMENT: Dr. Hill will be adding at least two new graduate students beginning Spring or Fall 2026 at the M.S or Ph.D. level. Research projects will revolve around developing and applying machine learning and deep learning techniques for high-impact weather forecast systems. Please contact Dr. Hill (ahill@ou.edu) if you are interested in these positions and joining the School of Meteorology at OU! Full announcement <a href="./ad">here</a></b>
+<b>ANNOUNCEMENT: Dr. Hill will be adding at least two new graduate students beginning Spring or Fall 2026 at the M.S or Ph.D. level. Research projects will revolve around developing and applying machine learning and deep learning techniques for high-impact weather forecast systems. Full announcement <a href="./ad">here</a></b>
 
 
 Dr. Aaron Hill is a professor of meteorology in the School of Meteorology at the University of Oklahoma. His research interests include weather forecasting, data assimilation, numerical weather prediction, predictability of severe convective weather, artificial intelligence and machine learning, Python programming, innovative observing systems, and operational weather forecasting tools. Dr. Hill leads the CHAOS research group which specializes in Convection and weather Hazards with Artificial intelligence, Observations, and Simulations. The group is currently involved in developing machine learning tools for high-impact weather forecasting, exploring predictability of storms in warming climates, and understanding the dynamics of tornadogenesis in Quasi-Linear Convective Systems. Interested in joining the CHAOS group? Contact Dr. Hill: ahill@ou.edu
