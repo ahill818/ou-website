@@ -22,7 +22,7 @@ Project 1: The GRA on this project will be tasked with designing and implementin
 
 Project 2: The GRA on this project will develop extreme rainfall prediction systems with machine learning and deep learning algorithms to assist operational forecasters at the Weather Prediction Center. The student will be expected to work with multiple project partners at Colorado State University and the University of North Carolina to curate datasets for model training and analysis. 
 
-How to Apply: Please contact Dr. Aaron Hill (ahill@ou.edu) to express your intent to apply for one of these positions. Prospective students must apply for admission to the Graduate College through the <a href="https://www.ou.edu/gradcollege/apply">Office of Admissions and Records</a>. All materials are submitted electronically through that site (including three letters of reference, official transcripts from all colleges and universities attended, and a personal statement). Please see our website on “<a href="http://ou.edu/ags/meteorology/people/graduate-students#apply">How to Apply</a>” for more information. The application deadline is 1 December, but we accept applications past this deadline. 
+How to Apply: Prospective students must apply for admission to the Graduate College through the <a href="https://www.ou.edu/gradcollege/apply">Office of Admissions and Records</a>. All materials are submitted electronically through that site (including three letters of reference, official transcripts from all colleges and universities attended, and a personal statement). Please see our website on “<a href="http://ou.edu/ags/meteorology/people/graduate-students#apply">How to Apply</a>” for more information. The application deadline is 1 December, but we accept applications past this deadline. 
  
 Qualifications: 
 1.  A Bachelor’s or Master’s degree in atmospheric sciences, physics, environmental sciences, computer science, or related areas. 
@@ -35,4 +35,4 @@ Location: Norman, Oklahoma. The School of Meteorology resides in the National We
 
 The University of Oklahoma, in compliance with all applicable federal and state laws and regulations, does not discriminate on the basis of race, color, national origin, sex, sexual orientation, genetic information, gender identity, gender expression, age, religion, disability, political beliefs, or status as a veteran in any of its policies, practices, or procedures. 
 
-If you have any questions about the position, please contact Dr. Hill (ahill@ou.edu)!</p>
+If you have any specific questions about the positions, please contact Dr. Hill (ahill@ou.edu)!</p>
