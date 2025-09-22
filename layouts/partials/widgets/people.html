@@ -1,0 +1,16 @@
+<div class="person-card">
+  <div class="person-avatar">
+    <!-- keep avatar clickable or remove link as desired -->
+    <img src="{{ .Params.avatar }}" alt="{{ .Title }}">
+  </div>
+  <div class="person-info">
+    <h5 class="person-name">
+      {{ .Title }}
+    </h5>
+    {{ with .Params.role }}
+      <p class="person-role">{{ . }}</p>
+    {{ end }}
+    <!-- rest of fields -->
+  </div>
+</div>
+
