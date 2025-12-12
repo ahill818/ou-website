@@ -1,5 +1,5 @@
 ---
-title: BoltCast: Medium-range Lightning Prediction with Neural and Long-Short Term Memory Networks
+title: BoltCast, Medium-range Lightning Prediction with Neural and Long-Short Term Memory Networks
 authors:
 - B. McClung
 - A. McGovern
