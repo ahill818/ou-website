@@ -1,13 +1,15 @@
 ---
-title: Artificial Intelligence Weather Prediction Model Performance for Hurricane Helene (2024)
+title: BoltCast: Medium-range Lightning Prediction with Neural and Long-Short Term Memory Networks
 authors:
-- E. E. Sudler
+- B. McClung
+- A. McGovern
 - admin
-- C. R. Homeyer
+- D. Schvartzman
+- M. Stock
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2025-08-01T00:00:00Z"
+date: "2025-07-01T00:00:00Z"
 #doi: "doi:10.1175/MWR-D-19-0344.1"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +22,7 @@ date: "2025-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Weather and Forecasting, in review"
+publication: "Artificial Intelligence for the Earth Systems, in review"
 #publication_short: "WAF"
 
 tags:
