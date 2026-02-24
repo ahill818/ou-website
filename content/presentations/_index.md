@@ -15,6 +15,7 @@ header:
   image: ''
 ---
 <h3>2026</h3>
+
 Shank, I. and <b>A. J. Hill</b>, 2026: <u>Assessing Machine Learning Probabilistic Forecast Utility for Severe Weather Forecasting</u>. 25th Annual Student Conference, Houston, TX.
 
 Sudler, E., <b>A. J. Hill</b>, and C. R. Homeyer, 2026: <u>Artificial Intelligence Weather Prediction Model Performance for Hurricane Helene (2024)</u>. 25th Conference on Artificial Intelligence for Environmental Science, Houston, TX.
@@ -40,6 +41,7 @@ White, E. and <b>A. J. Hill</b>, 2026: <u>AI-MLP: Severe Weather Probabilities f
 Williams, J. K., A. McGovern, P. E. Tissot, J. L. Demuth, D. J. Gagne, D. R. Harrison, <b>A. J. Hill</b>, K. Musgrave, and C. D. Wirz, 2026: <u>R2O lessons learned from the NSF AI Institute AI2ES</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
 
 <h3>2025</h3>
+
 <b>Hill, A. J.</b> and E. White, 2025: <u>Postprocessing Global AI Weather Prediction Models for Severe Weather Forecasting</u>. European Conference on Severe Storms, Utrecht, ND.
 
 Vicens-Miquel, A. McGovern, <b>A. J. Hill</b>, E. Foufoula-Georgiou, C. Guilloteau, and S. S. P. Shen, 2025: <u>A Diffusion-based Framework: High-Resolution Precipitation Forecasting over CONUS</u>. Summit for AI Institutes Leadership, Reston, VA. 

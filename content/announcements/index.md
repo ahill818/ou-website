@@ -14,6 +14,12 @@ header:
   image: ""
 
 ---
+<b>02/2026</b>
+
+Congratulations to CHAOS members Nathan Erickson and Evan Sudler for winning presentation awards at the recent AMS Annual Meeting! The CHAOS group had over 10 presentations at the recent national meeting
+
+In January, former undergraduate researcher Evan White had his work on postprocessing AI weather prediction models published in AIES - <a href="https://journals.ametsoc.org/view/journals/aies/5/1/AIES-D-25-0065.1.xml">read more here!</a>
+
 <b>08/01/2025</b>
 
 Congratulations to Christian McGinty for winning a presentation award for his poster on TORFF outlooks at the recent AMS Mesoscale conference! Hanna McDaniel and Kelly Geiger also presented their M.S. work at AMS Mesoscale for their first graduate school conference presentations! 
