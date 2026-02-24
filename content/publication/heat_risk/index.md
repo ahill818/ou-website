@@ -21,7 +21,7 @@ date: "2025-07-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Urban Climate, submitted"
+publication: "City and Environment Interactions, submitted"
 #publication_short: "WAF"
 
 tags:

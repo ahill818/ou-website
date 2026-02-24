@@ -1,13 +1,13 @@
 ---
-title: Severe weather forecasts from artificial intelligence weather prediction models
+title: Extreme precipitation in the contiguous US in gridded analyses and a convection-permitting model simulation
 authors:
-- E. White
+- R. Schumacher
 - admin
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2026-01-01T00:00:00Z"
-doi: "doi:10.1175/AIES-D-25-0065.1"
+date: "2025-12-01T00:00:00Z"
+#doi: "doi:10.1175/AIES-D-25-0065.1"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -19,11 +19,11 @@ doi: "doi:10.1175/AIES-D-25-0065.1"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence for the Earth Systems, 5, 250065"
+publication: "Journal of Hydrometeorology, submitted"
 #publication_short: "WAF"
 
 tags:
-- Machine Learning
+- dynamics
 featured: false
 
 # links:
