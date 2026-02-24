@@ -57,8 +57,8 @@ sections:
           description: |2-
               Classes taught:
               * METR 4970/5970: Numerical Weather Prediction (Fall 2025)
-              * METR 1313: Introduction to Programming for Meteorology (Spring 2024, 2025)
-              * METR 5970: AI for Environmental Science (Fall 2024)
+              * METR 1313: Introduction to Programming for Meteorology (Spring 2024, 2025, 2026)
+              * METR 5970: AI for Environmental Science (Fall 2024, 2026)
         - title: Research Scientist (I/II)
           company: Colorado State University
           company_url: ''
@@ -249,21 +249,29 @@ sections:
       text: |-
         Full list of presentations <a href="./presentations/">here</a>
 
-        McClung, B. T., D. Schvartzman, <b>A. J. Hill</b>, M. Stock, and A. McGovern, 2025: <u>BoltCast: Deep Learning for Long Term Lightning Prediction</u>. 12th Conference on the Meteorological Application of Lightning Data, New Orleans, LA. 
+        Shank, I. and <b>A. J. Hill</b>, 2026: <u>Assessing Machine Learning Probabilistic Forecast Utility for Severe Weather Forecasting</u>. 25th Annual Student Conference, Houston, TX.
 
-        Clark, A., <b>A. J. Hill</b>, K. Hoogewind, A. Berrington, and E. Loken, 2025: <u>Extended range machine-learning severe weather guidance based on the operational GEFS</u>. 33rd Conference on Weather Analysis and Forecasting, New Orleans, LA. 
+        Sudler, E., <b>A. J. Hill</b>, and C. R. Homeyer, 2026: <u>Artificial Intelligence Weather Prediction Model Performance for Hurricane Helene (2024)</u>. 25th Conference on Artificial Intelligence for Environmental Science, Houston, TX.
 
-        Erickson, N., A. McGovern, and <b>A. J. Hill</b>, 2025: <u>Deep Learning for Short-Term Characterization of Tornado Intensity</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+        Schumacher, R. S., <b>A. J. Hill</b>, A. J. Tomanek, and J. A. Smith, 2026: <u>Extreme Short-Term Precipitation in Gridded Precipitation Analyses and the CONUS404 Regional Climate Simulation</u>. 40th Conference on Hydrology, Houston, TX.
 
-        <b>Hill, A. J.</b>, D. J. Bodine, S. M. Cavallo, B. G. Ilston, Z. J. Lebo, and D. Schvartzman, 2025: <u>Preparing the Next Generation of Meteorological Data Scientists: Redesigning Curricula for Student Success</u>. 34th Conference on Education, New Orleans, LA. 
+        McDaniel, H. J. and <b>A. J. Hill</b>, 2026: <u>An Assessment of Mesovortices in Quasi-Linear Convective Systems from 2013-2023 Using GridRad-Severe</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
 
-        <b>Hill, A. J.</b>, E. White, and J. Radford, 2025: <u>An AI-Machine Learning Probabilities (AI-MLP) Forecast System for Hazardous Weather Prediction</u>. 33rd Conference on Weather Analysis and Forecasting, New Orleans, LA. 
+        Vicens-Miquel, M., A. McGovern, <b>A. J. Hill</b>, E. G. Foufoula-Georgiou, C. Guilloteau, and S. S. Shen, 2026: <u>A Diffusion-Based Framework for 1-km Spatial Resolution Precipitation Forecasting over CONUS</u>. 25th Conference on Artificial Intelligence for Environmental Science, Houston, TX.
 
-        <b>Hill, A. J.</b> and R. S Schumacher, 2025: <u>Machine Learning Probability Ensembles for Medium-Range Excessive Rainfall Prediction</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+        Spicer, E., P. M. Klein, <b>A. J. Hill</b>, and C. Wang, 2026: <u>A Novel Approach to Nocturnal Heat Risk Analysis Using Machine Learning and the Unrestricted Mesoscale Analysis</u>. 16th Symposium on Urban Environment, Houston, TX.
 
-        Madsen M., A. McGovern, D. Harrison, A. Clark, M. Baldwin, S. Ernst, J. T. Ripberger, and <b>A. J. Hill</b>, 2025: <u>Perceptions and Performance of Global AI Models in the 2024 NOAA Hazardous Weather Testbed</u>. 24th Conference on Artificial Intelligence for Environmental Science, New Orleans, LA. 
+        <b>Hill, A. J.</b>, M. Voth, and B. Long, 2026: <u>Characterizing Environmental Evolution in Advance of Tornadic and Non-Tornadic Mesovortices with PERiLS Field Campaign Datasets and High-Resolution Simulations</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
 
-        Schumacher, R. S. and <b>A. J. Hill</b>, 2025: <u>Quality-controlled databases of US extreme rainfall events based on gridded precipitation estimates and convection-permitting model output</u>. 39th Conference on Hydrology, New Orleans, LA. 
+        Erickson, N., A. McGovern, and <b>A. J. Hill</b>, 2026: <u>Deep Learning for Probabilistic Nowcasting of Radar Reflectivity in Tornadic Storms</u>. 25th Conference on Artificial Intelligence for Environmental Science, Houston, TX.
+
+        Geiger, K. M., <b>A. J. Hill</b>, and R. S. Schumacher, 2026: <u>Environmental Influences on Extreme and Less-Extreme Nocturnal Summertime Extreme Rainfall Events in the United States</u>. 40th Conference on Hydrology, Houston, TX.
+
+        Fellman, B. J., H. E. Brooks, J. T. Ripberger, P. T. Marsh, S. R. Ernst, <b>A. J. Hill</b>, and M. Krocak, 2026: <u>The Calm Before the Storm: A Climatological Overview of the Storm Prediction Center's Day 4-8 Severe Weather Outlook</u>. Third Symposium on the Future of Weather, Forecasting and Practice, Houston, TX.
+
+        White, E. and <b>A. J. Hill</b>, 2026: <u>AI-MLP: Severe Weather Probabilities from Global AI Weather Models</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
+
+        Williams, J. K., A. McGovern, P. E. Tissot, J. L. Demuth, D. J. Gagne, D. R. Harrison, <b>A. J. Hill</b>, K. Musgrave, and C. D. Wirz, 2026: <u>R2O lessons learned from the NSF AI Institute AI2ES</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
 
       filters:
         folders:
