@@ -16,7 +16,7 @@ header:
 ---
 <b>02/2026</b>
 
-Congratulations to CHAOS members Nathan Erickson and Evan Sudler for winning presentation awards at the recent AMS Annual Meeting! The CHAOS group had over 10 presentations at the recent national meeting
+Congratulations to CHAOS members Nathan Erickson, Hanna McDaniel, and Evan Sudler for winning presentation awards at the recent AMS Annual Meeting! The CHAOS group had over 10 presentations at the recent national meeting
 
 In January, former undergraduate researcher Evan White had his work on postprocessing AI weather prediction models published in AIES - <a href="https://journals.ametsoc.org/view/journals/aies/5/1/AIES-D-25-0065.1.xml">read more here!</a>
 
