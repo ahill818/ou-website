@@ -14,7 +14,7 @@ status:
 superuser: false
 
 # Role/position/tagline
-role: Undergraduate Research Assistant<br /><br />Machine Learning for Severe Weather
+role: Graduate Research Assistant<br /><br />Machine Learning for High-Impact Weather
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-  - Alumni
+  - Graduate
 
 social:
   - icon: envelope
@@ -45,4 +45,4 @@ social:
   #   link: https://github.com
 ---
 
-Evan joined the group in Fall 2024. Evan is working on developing hazardous weather predictions through postprocessing of global model forecasts. 
+Evan joined the group in Fall 2024 as an undergraduate research assistant and worked on developing severe weather predictions through postprocessing of global model forecasts. After obtaining an MS in Data Analytics in 2026, Evan rejoined the group as a PhD student focused on applying AI and deep learning techniques for other high-impact weather phenomena. 
