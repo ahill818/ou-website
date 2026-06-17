@@ -28,7 +28,7 @@ email: ''
 highlight_name: true
 
 user_groups:
-  - Graduate
+  - Graduate Students
 
 social:
   - icon: envelope
