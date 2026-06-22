@@ -6,8 +6,8 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2026-03-01T00:00:00Z"
-#doi: "doi:10.1175/AIES-D-25-0065.1"
+date: "2026-06-19T00:00:00Z"
+doi: "https://doi.org/10.1175/JHM-D-25-0212.1"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +19,7 @@ date: "2026-03-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Hydrometeorology, submitted"
+publication: "Journal of Hydrometeorology, in press."
 #publication_short: "WAF"
 
 tags:
@@ -28,7 +28,7 @@ featured: false
 
 # links:
 # - name: ""
-url: ''
+url: 'https://doi.org/10.1175/JHM-D-25-0212.1'
 #url_pdf: https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
