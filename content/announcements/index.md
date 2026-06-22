@@ -14,6 +14,15 @@ header:
   image: ""
 
 ---
+<b>06/2026</b>
+A little late on the announcements, but congratulations to Evan Sudler on their recent graduation from the School of Meteorology here at OU! Evan won't be moving far, except to their own office in the building, as they continue their graduate work in the CHAOS group on machine learning for excessive rainfall. 
+
+Welcome back to Evan White who re-joined the group in May as a new PhD student working on subseasonal extreme predictions.
+
+And a future welcome to incoming student Hannah Kostka who is joining the group this fall! Hannah graduated from Valpairaso University in May and will be doing their graduate studies on understanding extreme precipitation environments and dynamics. 
+
+Three new papers from the group: <a href="doi.org/10.1175/AIES-D-25-0044.1">Brandon McClung published his dissertation work on medium-range lightning predictions</a>; <a href="https://doi.org/10.1175/JHM-D-25-0212.1">Russ Schumacher and Aaron published work on extreme precipitation analyses</a>; and <a href="https://doi.org/10.1175/WAF-D-25-0175.1">Evan Sudler had his work on evaluating AI weather predictions of Hurrican Helene published</a>. 
+
 <b>02/2026</b>
 
 Congratulations to CHAOS members Nathan Erickson, Hanna McDaniel, and Evan Sudler for winning presentation awards at the recent AMS Annual Meeting! The CHAOS group had over 10 presentations at the recent national meeting
