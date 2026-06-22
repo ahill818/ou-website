@@ -15,6 +15,7 @@ header:
 
 ---
 <b>06/2026</b>
+
 A little late on the announcements, but congratulations to Evan Sudler on their recent graduation from the School of Meteorology here at OU! Evan won't be moving far, except to their own office in the building, as they continue their graduate work in the CHAOS group on machine learning for excessive rainfall. 
 
 Welcome back to Evan White who re-joined the group in May as a new PhD student working on subseasonal extreme predictions.
