@@ -7,7 +7,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2026-06-19T00:00:00Z"
-doi: "https://doi.org/10.1175/JHM-D-25-0212.1"
+doi: "doi:10.1175/JHM-D-25-0212.1"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -28,7 +28,7 @@ featured: false
 
 # links:
 # - name: ""
-url: 'https://doi.org/10.1175/JHM-D-25-0212.1'
+url: ''
 #url_pdf: https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
