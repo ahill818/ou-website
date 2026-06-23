@@ -3,15 +3,14 @@ title: Forecasting Weather Hazards
 summary: Machine learning tools and physics-based models are being used to generate valuable products that aid operational forecasting
 tags:
   - forecasting
-  - predictability
 date: '2026-07-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
-image:
-  caption: Machine learning-based day 2 forecasts of excessive rainfall associated with Hurricane Ida with overlapping observations
-  focal_point: Smart
+# image:
+#   caption: Machine learning-based day 2 forecasts of excessive rainfall associated with Hurricane Ida with overlapping observations
+#   focal_point: Smart
 
 #links:
 #  - icon: twitter
