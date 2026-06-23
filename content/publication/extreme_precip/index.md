@@ -19,7 +19,7 @@ doi: "doi:10.1175/JHM-D-25-0212.1"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Hydrometeorology, in press."
+publication: "Journal of Hydrometeorology, in press"
 #publication_short: "WAF"
 
 tags:

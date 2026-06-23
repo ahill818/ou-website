@@ -22,7 +22,7 @@ doi: "doi:10.1175/AIES-D-25-0044.1"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence for the Earth Systems, 5, 250044."
+publication: "Artificial Intelligence for the Earth Systems, 5, 250044"
 #publication_short: "WAF"
 
 tags:

@@ -194,9 +194,9 @@ sections:
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
       buttons:
-        - name: AI/ML Applications
-          tag: Machine Learning
-        - name: Predictability
+        - name: Forecasting Hazards
+          tag: forecasting
+        - name: Weather Predictability
           tag: predictability
         - name: Convection Dynamics
           tag: dynamics
@@ -248,6 +248,16 @@ sections:
       text: |-
         Full list of presentations <a href="./presentations/">here</a>
 
+        Sudler, E., <b>A. J. Hill</b>, and C. R. Homeyer, 2026: <u>‘Cyclones Are Da Bomb!’ An Evaluation of North American Bomb Cyclogenesis Predictability with Machine Learning Weather Prediction Models</u>. AI2ES Site-Wide Meeting, April 2026.
+
+        <b>Hill, A. J.</b> and R. S. Schumacher, 2026: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. CIWRO/CIROH Workshop on the Hydrology-Meteorology Interface, Norman, OK. 
+
+        Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Eight years of hazardous convective weather predictions using machine learning in the US: what have we (and the machines) learned?</u> EGU General Assembly 2026, Vienna, Austria. 
+
+        Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Mesoscale processes associated with extreme short-term precipitation in observations and the CONUS404 regional climate simulation</u>. 17th International Conference on Mesoscale Convective Systems, Penghu, Taiwan. 
+
+        Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Eight years of hazardous convective weather predictions using machine learning in the US: what have we (and the machines) learned?</u> 17th International Conference on Mesoscale Convective Systems, Penghu, Taiwan. 
+
         Shank, I. and <b>A. J. Hill</b>, 2026: <u>Assessing Machine Learning Probabilistic Forecast Utility for Severe Weather Forecasting</u>. 25th Annual Student Conference, Houston, TX.
 
         Sudler, E., <b>A. J. Hill</b>, and C. R. Homeyer, 2026: <u>Artificial Intelligence Weather Prediction Model Performance for Hurricane Helene (2024)</u>. 25th Conference on Artificial Intelligence for Environmental Science, Houston, TX.
@@ -256,21 +266,6 @@ sections:
 
         McDaniel, H. J. and <b>A. J. Hill</b>, 2026: <u>An Assessment of Mesovortices in Quasi-Linear Convective Systems from 2013-2023 Using GridRad-Severe</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
 
-        Vicens-Miquel, M., A. McGovern, <b>A. J. Hill</b>, E. G. Foufoula-Georgiou, C. Guilloteau, and S. S. Shen, 2026: <u>A Diffusion-Based Framework for 1-km Spatial Resolution Precipitation Forecasting over CONUS</u>. 25th Conference on Artificial Intelligence for Environmental Science, Houston, TX.
-
-        Spicer, E., P. M. Klein, <b>A. J. Hill</b>, and C. Wang, 2026: <u>A Novel Approach to Nocturnal Heat Risk Analysis Using Machine Learning and the Unrestricted Mesoscale Analysis</u>. 16th Symposium on Urban Environment, Houston, TX.
-
-        <b>Hill, A. J.</b>, M. Voth, and B. Long, 2026: <u>Characterizing Environmental Evolution in Advance of Tornadic and Non-Tornadic Mesovortices with PERiLS Field Campaign Datasets and High-Resolution Simulations</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
-
-        Erickson, N., A. McGovern, and <b>A. J. Hill</b>, 2026: <u>Deep Learning for Probabilistic Nowcasting of Radar Reflectivity in Tornadic Storms</u>. 25th Conference on Artificial Intelligence for Environmental Science, Houston, TX.
-
-        Geiger, K. M., <b>A. J. Hill</b>, and R. S. Schumacher, 2026: <u>Environmental Influences on Extreme and Less-Extreme Nocturnal Summertime Extreme Rainfall Events in the United States</u>. 40th Conference on Hydrology, Houston, TX.
-
-        Fellman, B. J., H. E. Brooks, J. T. Ripberger, P. T. Marsh, S. R. Ernst, <b>A. J. Hill</b>, and M. Krocak, 2026: <u>The Calm Before the Storm: A Climatological Overview of the Storm Prediction Center's Day 4-8 Severe Weather Outlook</u>. Third Symposium on the Future of Weather, Forecasting and Practice, Houston, TX.
-
-        White, E. and <b>A. J. Hill</b>, 2026: <u>AI-MLP: Severe Weather Probabilities from Global AI Weather Models</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
-
-        Williams, J. K., A. McGovern, P. E. Tissot, J. L. Demuth, D. J. Gagne, D. R. Harrison, <b>A. J. Hill</b>, K. Musgrave, and C. D. Wirz, 2026: <u>R2O lessons learned from the NSF AI Institute AI2ES</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
 
       filters:
         folders:

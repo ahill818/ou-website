@@ -15,6 +15,17 @@ header:
   image: ''
 ---
 <h3>2026</h3>
+Sudler, E., <b>A. J. Hill</b>, and C. R. Homeyer, 2026: <u>‘Cyclones Are Da Bomb!’ An Evaluation of North American Bomb Cyclogenesis Predictability with Machine Learning Weather Prediction Models</u>. AI2ES Site-Wide Meeting, April 2026.
+
+<b>Hill, A. J.</b> and R. S. Schumacher, 2026: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. CIWRO/CIROH Workshop on the Hydrology-Meteorology Interface, Norman, OK. 
+
+Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Eight years of hazardous convective weather
+predictions using machine learning in the US: what have we (and the machines) learned?</u> EGU General Assembly 2026, Vienna, Austria. 
+
+Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Mesoscale processes associated with extreme short-term precipitation in observations and the CONUS404 regional climate simulation</u>. 17th International Conference on Mesoscale Convective Systems, Penghu, Taiwan. 
+
+Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Eight years of hazardous convective weather
+predictions using machine learning in the US: what have we (and the machines) learned?</u> 17th International Conference on Mesoscale Convective Systems, Penghu, Taiwan. 
 
 Shank, I. and <b>A. J. Hill</b>, 2026: <u>Assessing Machine Learning Probabilistic Forecast Utility for Severe Weather Forecasting</u>. 25th Annual Student Conference, Houston, TX.
 
