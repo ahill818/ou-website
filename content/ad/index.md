@@ -14,7 +14,8 @@ header:
   image: ""
 
 ---
-<h1>Two Open Graduate Research Assistantships (Masters or Ph.D.) at OU School of Meteorology</h1>
+<p>The CHAOS group is not currently recruiting students. New opportunities may exist in the future and if you are interested in discussing opportunities, please contact Dr. Hill (ahill@ou.edu)</p>
+<!-- <h1>Two Open Graduate Research Assistantships (Masters or Ph.D.) at OU School of Meteorology</h1>
 
 <p>The CHAOS research group led by Dr. Aaron Hill in the School of Meteorology at OU is seeking at least two Graduate Research Assistants (M.S. or Ph.D. Level) beginning Spring or Fall 2026. Research projects will be related to artificial intelligence and machine learning applications for extreme temperatures and rainfall.
 
@@ -35,4 +36,4 @@ Location: Norman, Oklahoma. The School of Meteorology resides in the National We
 
 The University of Oklahoma, in compliance with all applicable federal and state laws and regulations, does not discriminate on the basis of race, color, national origin, sex, sexual orientation, genetic information, gender identity, gender expression, age, religion, disability, political beliefs, or status as a veteran in any of its policies, practices, or procedures. 
 
-If you have any specific questions about the positions, please contact Dr. Hill (ahill@ou.edu)!</p>
+If you have any specific questions about the positions, please contact Dr. Hill (ahill@ou.edu)!</p> -->
