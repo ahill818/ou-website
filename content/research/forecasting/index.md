@@ -54,6 +54,10 @@ Figure: (left) Brier Skill Score aggregated over 1.5 years of forecasts for mult
 
 <h3>Current Projects:</h3>
 <ul>
+<li>The BOOST Model: BOOsting extreme Subseasonal Temperature forecasts for the Continental United States. Support: <b><u>Mercuria Trading.</u></b></li>
+
+<li>Enhancing probabilistic machine-learned guidance and verification of excessive rainfall and flash floods”. Support: <b><u>National Oceanic and Atmospheric Administration.</u></b></li>
+
 <li>Collaborative Research: What drives the most extreme rainstorms in the contiguous
 US?. Support: <b><u>National Science Foundation.</u></b></li>
 </ul>
@@ -66,6 +70,12 @@ US?. Support: <b><u>National Science Foundation.</u></b></li>
 </ul>
 <h3>Papers:</h3>
 <ul>
+<li><a href=/publication/erickson_dl/>Explainable Deep Learning for Probabilistic Nowcasting of Radar Reflectivity in Tornadic Storms</a></li>
+
+<li><a href=/publication/diffusion/>A Diffusion-Based Framework for High-Resolution Precipitation Forecasting over CONUS</a></li>
+
+<!-- <li><a href=/publication/vicens_rollouts/>Diffusion-based Rollouts as a Stabilization Mechanism for Long-Horizon Environmental Forecasting</a></li> -->
+<li><a href=/publication/boltcast/>BoltCast: Medium-Range Lightning Prediction with Neural and Long-Short Term Memory Networks</a></li>
 
 <li><a href=/publication/helene/>Artificial Intelligence Weather Predction Model Performance for Hurricane Helene (2024)</a></li>
 
@@ -78,4 +88,12 @@ US?. Support: <b><u>National Science Foundation.</u></b></li>
 <li><a href=/publication/clark_gefs/>Extended range machine-learning severe weather guidance based on the operational GEFS</a></li>
 
 <li><a href=/publication/csumlp_severe_mr/>A New Paradigm for Medium-Range Severe Weather Forecasts: Probabilistic Random Forest–Based Predictions</a></li>
+
+<li><a href=/publication/csumlp_nsslwrf/>Forecasting excessive rainfall with random forests and a deterministic convection-allowing model</a></li>
+
+<li><a href=/publication/csumlp-bams/>From random forests to flood forecasts: A research to operations success story</a></li>
+
+<li><a href=/publication/vse_portable/>Influence of a portable near-surface observing network on experimental ensemble forecasts of deep convection hazards during VORTEX-SE</a></li>
+
+<li><a href=/publication/csumlp_severe/>Forecasting severe weather with random forests</a></li>
 </ul>

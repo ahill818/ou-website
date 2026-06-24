@@ -41,6 +41,8 @@ It is vital that this new information seeps into the forecast process and inform
 Convective System Vertical Vorticity: Dynamics and Detection. Support: <b><u>National Oceanic and Atmospheric Administration</u></b>.</li>
 
 <li>Mesovortex detection with deep learning. Support: <b><u>University of Oklahoma</u></b>.</li> 
+<li>Collaborative Research: What drives the most extreme rainstorms in the contiguous
+US?. Support: <b><u>National Science Foundation</u></b>.</li>
 
 <li>Collaborative Research: Mesoscale Predictability Across Climate Regimes.</li>
 Support: <b><u>National Science Foundation</u></b>.
@@ -49,6 +51,7 @@ Support: <b><u>National Science Foundation</u></b>.
 
 <h3>Papers:</h3>
 <ul>
+<li><a href=/publication/extreme_precip/>Extreme precipitation in the contiguous US in gridded analyses and a convection-permitting model simulation</a></li>
 <li><a href=/publication/vse_portable/> Influence of a portable near-surface observing network on experimental ensemble forecasts of deep convection hazards during VORTEX-SE</a></li>
 <li><a href=/publication/esa_dryline/>Ensemble sensitivity analysis for mesoscale forecasts of dryline convection initiation</a></li>
 <li><a href=/publication/pakistan_flooding/>Multiscale Analysis of Three Consecutive Years of Anomalous Flooding in Pakistan</a></li>

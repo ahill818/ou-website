@@ -37,6 +37,8 @@ More broadly, the predictability of severe convective storms and their hazards a
 
 <h3>Current Projects:</h3>
 <ul>
+<li>The BOOST Model: BOOsting extreme Subseasonal Temperature forecasts for the Continental United States. Support: <b><u>Mercuria Trading.</u></b></li>
+
 <li>Collaborative Research: What drives the most extreme rainstorms in the contiguous
 US?. Support: <b><u>National Science Foundation</u></b>.</li>
 
@@ -53,6 +55,7 @@ Support: <b><u>National Science Foundation</u></b>.</li>
 </ul>
 <h3>Papers:</h3>
 <ul>
+<li><a href=/publication/helene/>Artificial Intelligence Weather Predction Model Performance for Hurricane Helene (2024)</a></li>
 <li><a href=/publication/osses>Factors influencing ensemble sensitivity-based targeted observing prediction at convection-allowing resolutions</a></li>
 <li><a href=/publication/vse_portable/> Influence of a portable near-surface observing network on experimental ensemble forecasts of deep convection hazards during VORTEX-SE</a></li>
 <li><a href=/publication/esa_dryline/>Ensemble sensitivity analysis for mesoscale forecasts of dryline convection initiation</a></li>

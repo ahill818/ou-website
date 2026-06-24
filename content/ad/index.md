@@ -1,6 +1,6 @@
 ---
-title: GRA Announcement
-summary: GRA Positions Available in The Hill Group
+title: Opportunities
+summary: Positions Available in the CHAOS Group
 date: "2025-08-01T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
