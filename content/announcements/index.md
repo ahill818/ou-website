@@ -14,6 +14,12 @@ header:
   image: ""
 
 ---
+<b>10/2026</b>
+
+Congratulations to former CHAOS members Christian McGinty and Kelly Geiger on their presentation awards at the AMS Madison Summit in August! Proud of students being recognized for their hard work. 
+
+Marina Vicens-Miquel had a recent paper published on <u><a href="https://doi.org/10.1175/AIES-D-26-0067.1">diffusion applications for precipitation forecasting</a></u>
+
 <b>06/2026</b>
 
 A little late on the announcements, but congratulations to Evan Sudler on their recent graduation from the School of Meteorology here at OU! Evan won't be moving far, except to their own office in the building, as they continue their graduate work in the CHAOS group on machine learning for excessive rainfall. 
