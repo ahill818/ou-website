@@ -15,7 +15,7 @@ header:
   image: ''
 ---
 <h3>2026</h3>
-Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Nine years of hazard predictions using machine learning: what have we (and the machines) learned?</u>National Weather Association Annual Meeting, Omaha, NE.
+Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Nine years of hazard predictions using machine learning: what have we (and the machines) learned?</u> National Weather Association Annual Meeting, Omaha, NE.
 
 <b>[INVITED] Hill, A. J.</b>, 2026: <u>Artificial Intelligence for Weather Decision Making</u>. National Weather Association Annual Meeting, Omaha, NE, October 2026. 
 
