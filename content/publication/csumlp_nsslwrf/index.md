@@ -1,5 +1,5 @@
 ---
-title: "Forecasting excessive rainfall with random forests and a deterministic convection-allowing model"
+title: Forecasting excessive rainfall with random forests and a deterministic convection-allowing model
 authors:
 - admin
 - Russ S. Schumacher

@@ -9,7 +9,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: <p align="center"><img src="group.jpeg"/>Group photo, September 2025. (from left to right) Braelyn Long, Christian McGinty, Mandy Voth, Rebecca Oh, Marina Vicens-Miquel, Aaron Hill, Nathan Erickson, Hanna McDaniel, Kelly Geiger, Evan Sudler</p>
+      text: <p align="center"><img src="group_2026.jpeg"/>Group photo, October 2026. (from left to right) Evan White, Hannah Koch, Nathan Erickson, Andrew Zondlo, Dr. Aaron Hill</p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.

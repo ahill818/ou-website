@@ -28,7 +28,7 @@ email: 'Christian.T.Mcginty-1@ou.edu'
 highlight_name: true
 
 user_groups:
-  - Graduate Students
+  - Alumni
 
 social:
   - icon: envelope

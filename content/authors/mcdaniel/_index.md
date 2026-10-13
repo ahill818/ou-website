@@ -28,7 +28,7 @@ email: 'hmcdaniel@ou.edu'
 highlight_name: true
 
 user_groups:
-  - Graduate Students
+  - Alumni
 
 social:
   - icon: envelope
