@@ -1,11 +1,11 @@
 ---
-title: Diffusion-Based Rollouts as a Stabilization Mechanism for Long-Horizon Environmental Forecasting
+title: Global Evaluation of AI and NWP Precipitation Forecasts During Atmospheric River Events
 authors:
 - M. Vicens-Miquel
+- T. Mandelbaum
 - A. McGovern
 - admin
-- E. Foufoula-Georgiou
-- S. P. Shen
+- D. Rothenberg
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
@@ -22,7 +22,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Geophysical Research Letters, submitted"
+publication: "Artificial Intelligence for the Earth Systems, submitted"
 #publication_short: "WAF"
 
 tags:
@@ -31,7 +31,7 @@ featured: false
 
 # links:
 # - name: ""
-url: ''
+url: 'arxiv.org/abs/2610.03758'
 #url_pdf: https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''

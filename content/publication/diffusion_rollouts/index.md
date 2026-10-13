@@ -31,7 +31,7 @@ featured: false
 
 # links:
 # - name: ""
-url: ''
+url: 'arxiv.org/abs/2609.33930'
 #url_pdf: https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
