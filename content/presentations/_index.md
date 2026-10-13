@@ -15,13 +15,13 @@ header:
   image: ''
 ---
 <h3>2026</h3>
-Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Nine years of hazard predictions using machine learning: what have we (and the machines) learned?</u>National Weather Association Annual Meeting, Omaha, NE. 
+Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Nine years of hazard predictions using machine learning: what have we (and the machines) learned?</u>National Weather Association Annual Meeting, Omaha, NE.
 
-<b>[INVTED] Hill, A. J.</b>, 2026: <u>Artificial Intelligence for Weather Decision Making</u>. National Weather Association Annual Meeting, Omaha, NE, October 2026. 
+<b>[INVITED] Hill, A. J.</b>, 2026: <u>Artificial Intelligence for Weather Decision Making</u>. National Weather Association Annual Meeting, Omaha, NE, October 2026. 
 
-<b>[INVTED] Hill, A. J.</b>, 2026: <u>Forecasting the Future: AI in Meteorology</u>. University of Central Oklahoma Media Ethics Conference, Norman, OK, October 2026. 
+<b>[INVITED] Hill, A. J.</b>, 2026: <u>Forecasting the Future: AI in Meteorology</u>. University of Central Oklahoma Media Ethics Conference, Norman, OK, October 2026. 
 
-<b>[INVTED] Hill, A. J.</b>, 2026: <u>Artificial Intelligence in the Weather Community</u>. Early Career Leadership Academy, Madison, WI, August 2026. 
+<b>[INVITED] Hill, A. J.</b>, 2026: <u>Artificial Intelligence in the Weather Community</u>. Early Career Leadership Academy, Madison, WI, August 2026. 
 
 Erickson, N., A. McGovern, and <b>A. J. Hill</b>, 2026: <u>Explainable Deep Learning for Probabilistic Nowcasting of Radar Reflectivity in Tornadic Storms</u>. 32nd Conference on Severe Local Storms, Madison, WI. 
 
