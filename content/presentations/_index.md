@@ -15,6 +15,32 @@ header:
   image: ''
 ---
 <h3>2026</h3>
+Schumacher, R. S. and <b>A. J. Hill</b>, 2026: <u>Nine years of hazard predictions using machine learning: what have we (and the machines) learned?</u>National Weather Association Annual Meeting, Omaha, NE. 
+
+<b>[INVTED] Hill, A. J.</b>, 2026: <u>Artificial Intelligence for Weather Decision Making</u>. National Weather Association Annual Meeting, Omaha, NE, October 2026. 
+
+<b>[INVTED] Hill, A. J.</b>, 2026: <u>Forecasting the Future: AI in Meteorology</u>. University of Central Oklahoma Media Ethics Conference, Norman, OK, October 2026. 
+
+<b>[INVTED] Hill, A. J.</b>, 2026: <u>Artificial Intelligence in the Weather Community</u>. Early Career Leadership Academy, Madison, WI, August 2026. 
+
+Erickson, N., A. McGovern, and <b>A. J. Hill</b>, 2026: <u>Explainable Deep Learning for Probabilistic Nowcasting of Radar Reflectivity in Tornadic Storms</u>. 32nd Conference on Severe Local Storms, Madison, WI. 
+
+^Geiger, K. M., <b>A. J. Hill</b>, and R. S. Schumacher, 2026: <u>Synoptic Influences on Nocturnal Summertime Extreme Rainfall Events in the United States Northern Great Plains</u>. 34th Conference on Weather Analysis and Forecasting, Madison, WI. 
+
+<b>Hill, A. J.</b> and R. S. Schumacher, 2026: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. 32nd Conference on Severe Local Storms, Madison, WI. 
+
+Long, B. and <b>A. J. Hill</b>, 2026: <u>Evaluating HRRR Model Representation of Tornadic QLCS Mesovortices and Environments from PERiLS</u>. 32nd Conference on Severe Local Storms, Madison, WI. 
+
+McDaniel, H. J., <b>A. J. Hill</b>, and C. R. Homeyer, 2026: <u>An Assessment of Mesovortices in Quasi-Linear Convective Systems From 2013-2023 Using GridRad-Severe</u>. 32nd Conference on Severe Local Storms, Madison, WI. 
+
+^McGinty, C., <b>A. J. Hill</b>, and E. R. Nielsen, 2026: <u>Comparing Forecast Techniques for Overlapping Tornado and Flash Flood Events</u>. 34th Conference on Weather Analysis and Forecasting, Madison, WI. 
+
+Oh, R. and <b>A. J. Hill</b>, 2026: <u>Quantifying Severe Convective Storm Characteristic Uncertainty in Warming Climates</u>. 32nd Conference on Severe Local Storms, Madison, WI. 
+
+Schumacher, R. S., <b>A. J. Hill</b>, and A. J. Tomanek, 2026: <u>Extreme Short-Term Precipitation in Gridded Precipitation Analyses and the CONUS404 Regional Climate Simulation</u>. 34th Conference on Weather Analysis and Forecasting, Madison, WI. 
+
+Voth, M. and <b>A. J. Hill</b>, 2026: <u>The Role of the Environment Prior to QLCS Mesovortex Tornadogenesis</u>. 32nd Conference on Severe Local Storms, Madison, WI. 
+
 Sudler, E., <b>A. J. Hill</b>, and C. R. Homeyer, 2026: <u>‘Cyclones Are Da Bomb!’ An Evaluation of North American Bomb Cyclogenesis Predictability with Machine Learning Weather Prediction Models</u>. AI2ES Site-Wide Meeting, April 2026.
 
 <b>Hill, A. J.</b> and R. S. Schumacher, 2026: <u>Medium-Range Excessive Rainfall Prediction with Machine Learning</u>. CIWRO/CIROH Workshop on the Hydrology-Meteorology Interface, Norman, OK. 
@@ -50,6 +76,8 @@ Fellman, B. J., H. E. Brooks, J. T. Ripberger, P. T. Marsh, S. R. Ernst, <b>A. J
 White, E. and <b>A. J. Hill</b>, 2026: <u>AI-MLP: Severe Weather Probabilities from Global AI Weather Models</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
 
 Williams, J. K., A. McGovern, P. E. Tissot, J. L. Demuth, D. J. Gagne, D. R. Harrison, <b>A. J. Hill</b>, K. Musgrave, and C. D. Wirz, 2026: <u>R2O lessons learned from the NSF AI Institute AI2ES</u>. 16th Conference on Transition of Research to Operations, Houston, TX. 
+
+<b>[INVITED] A. J. Hill</b>, 2026: <u>Forecasting Severe Weather Hazards with Artificial Intelligence</u>. Operation Sierra Storm, Lake Tahoe, CA, January 2026. 
 
 <h3>2025</h3>
 
