@@ -4,10 +4,12 @@ authors:
 - M. Vicens-Miquel
 - A. McGovern
 - admin
+- E. Foufoula-Georgiou
+- S. Shen
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2026-06-21T00:00:00Z"
+date: "2026-09-01T00:00:00Z"
 #doi: "doi:10.1175/MWR-D-19-0344.1"
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +22,7 @@ date: "2026-06-21T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Artificial Intelligence for the Earth Systems, in prep"
+publication: "Artificial Intelligence for the Earth Systems, submitted"
 #publication_short: "WAF"
 
 tags:
@@ -29,7 +31,7 @@ featured: false
 
 # links:
 # - name: ""
-url: ''
+url: 'http://arxiv.org/abs/2609.33930'
 #url_pdf: https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''

@@ -20,7 +20,7 @@ doi: "doi:10.1175/WAF-D-25-0175.1"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Weather and Forecasting, in press"
+publication: "Weather and Forecasting, 41, 1429–1442"
 #publication_short: "WAF"
 
 tags:
@@ -30,7 +30,7 @@ featured: false
 
 # links:
 # - name: ""
-url: ''
+url: 'http://doi.org/10.1175/WAF-D-25-0175.1'
 #url_pdf: https://journals.ametsoc.org/view/journals/wefo/38/2/WAF-D-22-0143.1.xml
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
