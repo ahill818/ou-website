@@ -14,6 +14,25 @@ header:
   image: ""
 
 ---
+<h1>Postdoctoral Researcher</h1>
+<p>The CHAOS (Convection and weather Hazards with Artificial intelligence, Observations, and Simulations) research group led by Dr. Aaron Hill in the School of Meteorology at the University of Oklahoma is hiring a Postdoctoral Research Fellow to develop extreme precipitation forecast models with machine learning. The postdoc will be responsible for aggregating input datasets, training machine learning models, and evaluating historical and real-time prediction performance for operational partners. The prediction system will extract prediction information from global AI weather models to produce 1–8 day forecasts across global areas of interest. The successful candidate will join a new research center at the University of Oklahoma focused on extreme weather resiliency. The researcher will be supervised by Dr. Aaron Hill and will collaborate with other researchers in the School of Meteorology as well as with personnel across the center. 
+The successful candidate will work in the National Weather Center where the School of Meteorology and NOAA’s National Severe Storms Laboratory reside. The National Weather Center fosters a uniquely collaborative work environment with federal, state, and academic units, providing valuable networking opportunities for career development.
+
+Salary will be competitive based on rates from a recent survey of postdoctoral fellowships in the United States and adjusted to the cost of living in Oklahoma. Full consideration will be given to applications received by November 25th 2026, but applications may be submitted until the position is closed. Candidates in the final stages of completing their Ph.D. are also encouraged to apply. The term of appointment will be one year, renewable for a second year subject to satisfactory performance.
+
+Required Qualifications:
+·       Ph.D. in Atmospheric Science, Meteorology, Computer Science, Physics, Mathematics, or related disciplines within the last 3 years
+·       Experience with programming languages for AI/ML algorithm development and data analysis
+ 
+Desired Skills and Qualifications:
+·       Excellent written and oral communication skills, evidenced by peer-reviewed publications
+·       Strong background in at least one of the following areas: extreme weather hazards, weather forecasting, mesoscale meteorology and dynamics, operational forecast product development, transitioning products and models into operations
+·       Past demonstrated experience and/or strong interest in using supercomputing or cloud computing resources
+Application Instructions
+
+To apply for this position, please submit the electronic application via Interfolio: https://apply.interfolio.com/196232 and to Prof. Aaron Hill (ahill@ou.edu) and include the following: a letter of research interest and experience, CV, and three names of references (including their contact information).
+</p>
+<h1>Graduate Student Opportunities</h1>
 <p>The CHAOS group is not currently recruiting students. New opportunities may exist in the future and if you are interested in discussing opportunities, please contact Dr. Hill (ahill@ou.edu)</p>
 <!-- <h1>Two Open Graduate Research Assistantships (Masters or Ph.D.) at OU School of Meteorology</h1>
 

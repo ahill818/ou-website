@@ -9,7 +9,7 @@ sections:
     content:
       title: 
       subtitle: 
-      text: <p align="center"><img src="group_2026.jpeg"/>Group photo, October 2026. (from left to right) Evan White, Hannah Koch, Nathan Erickson, Andrew Zondlo, Dr. Aaron Hill</p>
+      text: <p align="center"><img src="group_2026.jpeg"/>Group photo, October 2026. (from left to right) Evan White, Hannah Koch, Nathan Erickson, Andrew Zondlo, Evan Sudler, Dr. Aaron Hill</p>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
