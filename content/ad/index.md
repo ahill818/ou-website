@@ -21,14 +21,14 @@ The successful candidate will work in the National Weather Center where the Scho
 Salary will be competitive based on rates from a recent survey of postdoctoral fellowships in the United States and adjusted to the cost of living in Oklahoma. Full consideration will be given to applications received by November 25th 2026, but applications may be submitted until the position is closed. Candidates in the final stages of completing their Ph.D. are also encouraged to apply. The term of appointment will be one year, renewable for a second year subject to satisfactory performance.
 
 Required Qualifications:
-·       Ph.D. in Atmospheric Science, Meteorology, Computer Science, Physics, Mathematics, or related disciplines within the last 3 years
-·       Experience with programming languages for AI/ML algorithm development and data analysis
+- Ph.D. in Atmospheric Science, Meteorology, Computer Science, Physics, Mathematics, or related disciplines within the last 3 years <br />
+- Experience with programming languages for AI/ML algorithm development and data analysis <br />
  
 Desired Skills and Qualifications:
-·       Excellent written and oral communication skills, evidenced by peer-reviewed publications
-·       Strong background in at least one of the following areas: extreme weather hazards, weather forecasting, mesoscale meteorology and dynamics, operational forecast product development, transitioning products and models into operations
-·       Past demonstrated experience and/or strong interest in using supercomputing or cloud computing resources
-Application Instructions
+- Excellent written and oral communication skills, evidenced by peer-reviewed publications <br />
+- Strong background in at least one of the following areas: extreme weather hazards, weather forecasting, mesoscale meteorology and dynamics, operational forecast product development, transitioning products and models into operations <br />
+- Past demonstrated experience and/or strong interest in using supercomputing or cloud computing resources
+Application Instructions <br />
 
 To apply for this position, please submit the electronic application via Interfolio: https://apply.interfolio.com/196232 and to Prof. Aaron Hill (ahill@ou.edu) and include the following: a letter of research interest and experience, CV, and three names of references (including their contact information).
 </p>
