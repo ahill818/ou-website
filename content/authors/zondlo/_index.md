@@ -44,3 +44,5 @@ social:
   #   icon_pack: fab
   #   link: https://github.com
 ---
+
+Andrew joined the group in the Fall 2026 as an undergraduate researcher assisting in the development of machine learning models forecasting clear air turbulence for general aviation. He is originally from Princeton, NJ and enjoys playing a wide variety of sports in his free time.
